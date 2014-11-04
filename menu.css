@@ -1,0 +1,60 @@
+div#logo{
+	float: left;
+}
+
+nav{
+	text-align: right;
+}
+
+nav ul{
+	margin:0;
+	padding:0;
+	line-height:30px;
+}
+
+nav ul li{
+	list-style:none;
+	float:right;
+	position:relative;
+}
+
+nav ul li a{
+	text-align:center;
+	font-family:'Yanone Kaffeesatz', sans-serif;
+	text-decoration: none;
+	margin-left: 20px;
+	margin-right: 20px;
+	display:block;
+	color: #141314;
+}
+
+/*DROPDOWN MENU*/
+nav ul ul{
+	position:absolute;
+	visibility:hidden;
+	top:30px;
+	border-top: 1px solid #6b727c;
+	border-bottom: 1px solid #575f6a;
+	padding: 0 410px; /*linje for bred drop menu*/
+	margin: 0 -1000px; /*linje for bred drop menu*/
+}
+
+nav ul ul li p{
+	font-family:'Yanone Kaffeesatz', sans-serif;
+	text-align:left;
+}
+
+nav ul ul li form{
+	font-family:'Yanone Kaffeesatz', sans-serif;
+	text-align:left;
+}
+
+nav ul li:hover ul{
+	visibility:visible;
+	color: #9A98A1;
+	font-weight: bold;
+	display: block;
+	background: #efefef;
+	position: absolute;
+	
+}
