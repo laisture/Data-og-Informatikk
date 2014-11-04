@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	   <link rel="stylesheet" type="text/css" href="menu.css">
+  </head>
+  
+<body>
+	<header>
+	<div id="logo">
+	<img src= "http://www.gratisskole.dk/sdata/minipic/000/00060-600.jpg" width=10%>
+    </div>		
+	<div id="wrapper">
+		<nav>
+			<ul>
+				<li> <a href="#">Sign up</a>
+					<ul>
+						<li><p>Register:
+							<form>
+								First name: <input type="text" name="firstname"><br>
+								Last name: <input type="text" name="lastname"><br>
+								Password: <input type="password" name="pwd">
+							</form>
+						<form name="input" action="demo_form_action.asp" method="get">
+						Username: <input type="text" name="user">
+						<input type="submit" value="Submit">
+						</form></p>
+						</li>
+					</ul>
+				</li> <!--end main list-->
+				<li><a href="LogIn.html">Log in</a></li>
+				<li><a href="MySite.html">My site</a></li>
+			</ul> <!--end main Ul-->
+		</nav> <!--end navMenu-->	
+	</div> <!--end wrapper div-->
+			
+	</header>	
+</body>		
+</html>	
