@@ -1,0 +1,34 @@
+<script type="text/javascript">
+	window.onload = function(){ 
+		//Get submit button
+		var submitbutton = document.getElementById("tfq");
+		//Add listener to submit button
+		if(submitbutton.addEventListener){
+			submitbutton.addEventListener("click", function() {
+				if (submitbutton.value == 'Search our website'){/
+					submitbutton.value = '';
+				}
+			});
+		}
+	}
+	</script>
+	
+	
+	<nav>
+			<ul>
+				<li><a href="SignUp.html">Sign up</a>
+				<li><a href="LogIn.html">Log in</a></li>
+				<li><a href="MySite.html">My site</a></li>
+			</ul>
+			
+				<li>
+					<!-- HTML for SEARCH BAR -->
+					<div id="header">
+						<form id="newsearch" method="get" action="http://www.google.com">
+						        <input type="text" id="q" class="textinput" name="q" size="21" maxlength="120" 
+						        value="Search"><input type="submit" value=">" class="button">
+						</form>
+						<div class="clear"></div>
+					</div>
+				</li>	
+		</nav>
