@@ -12,3 +12,15 @@ Action->
   Law & order->
     Police
     Other
+Drama->
+  Social->
+  Political->
+Fantasy->
+  Future->
+  Past->
+  Animation->
+Comedy->
+  Animation->
+  Live Action->
+  
+  
