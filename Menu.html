@@ -2,37 +2,59 @@
 <html>
   <head>
 	   <link rel="stylesheet" type="text/css" href="menu.css">
-  </head>
-  
+  <script type="text/javascript">
+  	window.onload = function(){ 
+  		//Get submit button
+  		var submitbutton = document.getElementById("tfq");
+  		//Add listener to submit button
+  		if(submitbutton.addEventListener){
+  			submitbutton.addEventListener("click", function() {
+  				if (submitbutton.value == 'Search our website'){/
+  					submitbutton.value = '';
+  				}
+  			});
+  		}
+  	}
+  	</script>
+</head>
 <body>
 	<header>
-	<div id="logo">
-	<img src= "http://www.gratisskole.dk/sdata/minipic/000/00060-600.jpg" width=10%>
+   	<div id="logo">
+   	<img src= "http://www.gratisskole.dk/sdata/minipic/000/00060-600.jpg" width=10%>
     </div>		
-	<div id="wrapper">
-		<nav>
-			<ul>
-				<li> <a href="#">Sign up</a>
-					<ul>
-						<li><p>Register:
-							<form>
-								First name: <input type="text" name="firstname"><br>
-								Last name: <input type="text" name="lastname"><br>
-								Password: <input type="password" name="pwd">
-							</form>
-						<form name="input" action="demo_form_action.asp" method="get">
-						Username: <input type="text" name="user">
-						<input type="submit" value="Submit">
-						</form></p>
-						</li>
-					</ul>
-				</li> <!--end main list-->
-				<li><a href="LogIn.html">Log in</a></li>
-				<li><a href="MySite.html">My site</a></li>
-			</ul> <!--end main Ul-->
-		</nav> <!--end navMenu-->	
-	</div> <!--end wrapper div-->
-			
-	</header>	
+   	<div id="wrapper">
+   		<nav>
+   			<ul>
+   				<li> <a href="#">Sign up</a>
+   					<ul>
+   						<li><p>Register:</p>
+   							<form>
+   								First name: <input type="text" name="firstname"><br>
+   								Last name: <input type="text" name="lastname"><br>
+   								Password: <input type="password" name="pwd">
+   							</form>
+   						<form name="input" action="demo_form_action.asp" method="get">
+   						Username: <input type="text" name="user">
+   						<input type="submit" value="Submit">
+   						</form></p>
+   						</li>
+   					</ul>
+   				</li> <!--end main list-->
+   				<li><a href="LogIn.html">Log in</a></li>
+   				<li><a href="MySite.html">My site</a></li>
+   		  </ul> <!--end main Ul-->
+           <li>
+    		<!-- HTML for SEARCH BAR -->
+    		<div id="header">
+    		<form id="newsearch" method="get" action="http://www.google.com">
+    			<input type="text" id="q" class="textinput" name="q" size="21" maxlength="120" 
+    			 value="Search"><input type="submit" value=">" class="button">
+    		</form>
+    			<div class="clear"></div>
+    		</div>
+    		</li>
+	   </nav> <!--end navMenu-->
+    </div> <!--end wrapper div-->
+  	</header>
 </body>		
-</html>	
+</html>		  		
