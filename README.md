@@ -14,7 +14,11 @@ Action->
     Other
 Drama->
   Social->
-  Political->
+    Girly->
+    Not so girly->
+  Work->
+    Honest->
+    Shady->
 Fantasy->
   Future->
   Past->
