@@ -1,0 +1,121 @@
+header{
+	background-color:#00688B;
+	border-bottom: 2px solid #CDC9C9;
+	box-shadow: 5px 5px 16px #888888;
+}
+
+body{
+	padding:0; /* streching background on header*/
+	margin:0;
+}
+#logo{
+	float: left;
+	margin-top:-28px;
+}
+
+/* Menu bar */
+nav{
+	text-align: right;
+	width:90%;
+	padding:40px;
+	padding-bottom:30px;
+}
+
+form {
+	text-align: right;
+	display:none;
+	font-family: 'Marvel', sans-serif;
+	font-size:15px;
+	margin-top:18px;
+}
+
+#signInButton{
+	background: transparent;
+	border: none;
+	color: white;
+	cursor: inherit;
+	outline: 0;
+	cursor: pointer;
+	padding-right: 20px;
+	
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 17px;
+}
+
+#logInButton{
+	background: transparent;
+	border: none;
+	color: white;
+	cursor: inherit;
+	outline: 0;
+	cursor: pointer;
+	padding-right: 24px;
+	
+	padding-right:20px;
+	padding-left:20px;
+	border-right:solid 1px #0AE;
+	border-left:solid 1px #0AE;
+	
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 17px;
+}
+
+#mysite {
+	text-decoration: none;
+	color: white;
+	font-family: 'Archivo Narrow', sans-serif;
+	padding-left: 20px;
+}
+
+.onclick-menu-content {
+	background-color: white;
+	margin-top:47px;
+	list-style-type: none;
+	line-height:35px;
+	position:absolute;
+	width:88.5%;
+}
+
+/*Tv show info start*/
+/*text input felt*/
+input{
+	width: 140px;
+}
+
+center{
+	margin-top:57px;
+}
+
+h1{
+	/*font-family: 'Exo 2', sans-serif;*/
+	font-family: 'Rajdhani', sans-serif;
+	color: #402254;
+}
+
+h3{
+	font-family: 'Rajdhani', sans-serif; 
+	color: #210c2d;
+}
+
+.review{
+	float:right;
+	position:inline-block;
+}
+
+.text{
+	width:23%;
+	background-color: #CDC9C9;
+	color: #000000;
+	border: 2px solid #CDC9C9;
+	box-shadow: 5px 5px 16px #888888;
+	padding: 10px;
+    
+	font-family: 'Oxygen', sans-serif;
+	font-size:13px; 
+	text-align: left;
+	line-height: 150%;
+}
+
+.placing{
+	margin-left:30px;
+}
