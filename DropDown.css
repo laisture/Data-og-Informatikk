@@ -1,6 +1,6 @@
 header{
 	background-color:#00688B;
-	border-bottom: 2px solid #CDC9C9;
+	border-bottom: 2px solid #00688B;
 	box-shadow: 5px 5px 16px #888888;
 }
 
@@ -74,6 +74,42 @@ form {
 	line-height:35px;
 	position:absolute;
 	width:88.5%;
+}
+
+/*Hovedinnhold*/
+.content{
+	color: #000000;
+	border: 2px solid #CDC9C9;
+	float:left;
+	margin-left:30px;
+	margin-top:20px;
+	width:70%;
+}
+
+/*Top Rated Shows*/
+#tabell ul{
+	float:right;
+	color: #000000;
+	border: 2px solid #CDC9C9;
+	margin-right:30px;
+	margin-top:20px;
+}
+
+#TopRated{
+	margin-top:50px;
+	margin-bottom:20px;
+	font-family: 'Rajdhani', sans-serif; 
+	color: #210c2d;
+}
+#tabell ul li{
+	float: left;
+	list-style: none;
+	clear:left;
+	margin-right:30px;
+}
+
+#tabell img{
+	width: 100px;
 }
 
 /*Tv show info start*/
