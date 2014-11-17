@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	   <link rel="stylesheet" type="text/css" href="DropDown.css">
+  </head>
+ <body>
+  <header>
+	  <nav> 
+	      <div id="logo">
+	       	<img id="logo" src="Logo.jpg" width=28.6%>
+	      </div>
+	  <!-- MENU "SIGN IN" -->
+      <button id="signInButton" onclick="openSignIn()"> Sign in </button>
+	 <div class="onclick-menu-content">
+	  <form name="input" id="signIn">
+		Name: <input type="text" name="fname" required placeholder="enter your name">
+			<br />
+		Email: <input type="email" name="email" required placeholder="enter your email address">
+			<br />
+		Username: <input type="text" name="user" required placeholder="enter a username">
+			<br />
+		Password: <input type="password" name="pwd" required placeholder="enter a password">
+			<br />
+		<input type="submit" value="Submit" onclick="validateForm1()">
+	  </form>
+	 </div>
+      <!-- MENU "LOG IN" -->
+	  <button id="logInButton" onclick="openLogIn()"> Log in </button>
+	 <div class="onclick-menu-content">
+	  <form name="input2" id="logIn">
+		Username: <input type="text" name="user" required placeholder="enter your username">
+			<br />
+		Password: <input type="password" name="pwd" required placeholder="enter your password">
+			<br />
+		<input type="submit" value="Log in" onclick="validateForm2()">
+      </form>
+	 </div>
+     <!-- MENU "MY SITE" -->
+      <a id="mysite" href="MySite.html">MySite</a>
+	</nav>			
+  </header>
+
+
+<!-- Tv show info -->
+<center> 
+	<h1>The Vampire Diaries</h1>
+	<hr />
+</center>	
+	
+<div class="review">
+	<h3>Write a review here:</h3>
+	<br />
+	<textarea name="comments" rows=5 cols=40>
+	</textarea><br />
+	<button onclick="alert('Your comment has been submitted for review.')">Submit</button>
+</div>
+
+<div class="placing">
+	<p><img src="http://us.cdn2828.fansshare.com/photos/thevampirediaries/tvd-iv-survive-or-die-promo-poster-the-vampire-diaries-poster-491799575.jpg" width="20%" </p>
+	<p class="text"> <b>Summary:</b> <br /> Trapped in adolescent bodies, feuding vampire brothers Stefan and Damon vie for the affection of captivating teenager Elena, who attempts to unravel the many dark secrets of her hometown of Mystic Falls. </p>
+</div>
+  
+	  
+	  
+	  
+	  
+	    
+	<script>
+		function openSignIn()
+		{
+			if(document.getElementById("signIn").style.display == "block")
+				document.getElementById("signIn").style.display = "none";
+			else
+				document.getElementById("signIn").style.display = "block";
+		}
+		
+		function openLogIn()
+		{
+			if(document.getElementById("logIn").style.display == "block")
+				document.getElementById("logIn").style.display = "none";
+			else 
+				document.getElementById("logIn").style.display = "block";
+		}
+		
+		function validateForm1() {
+			var navn = document.forms["input"]["fname"].value;
+			var mail = document.forms["input"]["email"].value;
+			var usern = document.forms["input"]["user"].value;
+			var psswrd = document.forms["input"]["pwd"].value;
+			if (navn != "" && mail != "" && usern != "" && psswrd != "" )	{
+				alert ("You have successfully registered!");
+				return true;
+				}
+			}
+			
+		function validateForm2() {
+			var username = document.forms["input2"]["user"].value;
+			var password = document.forms["input2"]["pwd"].value;
+		    if (username != "" && password != "") {
+				alert ("You are now logged in!");
+				return true;
+				}
+			}
+	</script>
+  </body>		
+
+</html>		  		
