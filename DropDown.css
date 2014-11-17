@@ -77,38 +77,39 @@ form {
 }
 
 /*Hovedinnhold*/
-.content{
-	color: #000000;
-	border: 2px solid #CDC9C9;
-	float:left;
-	margin-left:30px;
+.main-content{
 	margin-top:20px;
+	float:left;
 	width:70%;
+	display:inline-block;
+}
+.placeMain-content{
+	padding:30px;
 }
 
 /*Top Rated Shows*/
-#tabell ul{
-	float:right;
-	color: #000000;
-	border: 2px solid #CDC9C9;
-	margin-right:30px;
+.additional-content{
 	margin-top:20px;
+	float:right;
+	width:30%;
+	display:inline-block;
+}
+
+.placeAdditional-content{
+	padding:30px;
 }
 
 #TopRated{
-	margin-top:50px;
 	margin-bottom:20px;
 	font-family: 'Rajdhani', sans-serif; 
 	color: #210c2d;
 }
-#tabell ul li{
-	float: left;
+
+.additional-content ul li{
 	list-style: none;
-	clear:left;
-	margin-right:30px;
 }
 
-#tabell img{
+.additional-content img{
 	width: 100px;
 }
 
