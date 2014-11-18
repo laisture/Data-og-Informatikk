@@ -117,19 +117,21 @@ form {
 /*text input felt*/
 h1{
 	font-family: 'Rajdhani', sans-serif;
-	color: #402254;
+	color: #000000;
 	margin-top:0;
+	text-align:left;
 }
 
 h3{
 	font-family: 'Rajdhani', sans-serif; 
-	color: #210c2d;
+	color: #000000;
+	margin-top:50px;
 }
 
 h4{
 	font-family: 'Rajdhani', sans-serif; 
 	color: #000000;
-	font-size:12px;
+	font-size:16px;
 }
 
 .review{
@@ -139,7 +141,7 @@ h4{
 }
 
 .text{
-	width:60%;
+	width:100%;
 	background-color: #CDC9C9;
 	color: #000000;
 	border: 2px solid #CDC9C9;
@@ -156,6 +158,8 @@ h4{
 	border: 1px solid #000000;
 	padding:10px;
 	line-height: 150%;
+	font-family: 'Oxygen', sans-serif;
+	font-size:14px; 
 }
 
 .placing{
