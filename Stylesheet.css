@@ -119,7 +119,6 @@ h1{
 	font-family: 'Rajdhani', sans-serif;
 	color: #000000;
 	margin-top:0;
-	text-align:left;
 }
 
 h3{
@@ -166,4 +165,8 @@ h4{
 	margin-left:30px;
 	position:inline-block;
 	width:40%;
+}
+
+textarea{
+	width:100%;
 }
