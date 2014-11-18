@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-	   <link rel="stylesheet" type="text/css" href="DropDown.css">
+	   <link rel="stylesheet" type="text/css" href="Stylesheet.css">
   </head>
  <body>
   <header>
 	  <nav> 
-	      <div id="logo">
+	      <!--<div id="logo">
 	       	<img id="logo" src="Logo.jpg" width=28.6%>
-	      </div>
+	      </div>-->
 	  <!-- MENU "SIGN IN" -->
       <button id="signInButton" onclick="openSignIn()"> Sign in </button>
 	 <div class="onclick-menu-content">
@@ -41,8 +41,9 @@
   </header>
   
   <!-- TOP RATED SHOWS -->
-  <div id="tabell">
-  		<ul> 
+  <div class="additional-content">
+  	<div class="placeAdditional-content">	
+		<ul> 
 			<li id="TopRated">Top Rated Tv Shows</li>
   			<li> 
   				<img src= 				"http://img3.wikia.nocookie.net/__cb20121027014436/vampirediaries/images/1/1e/The-vampire-diaries-season-4-cover-poster-artwork.jpg" >
@@ -64,31 +65,37 @@
   				<img src="http://www.newsprintnow.net/wp-content/uploads/2012/12/gossip_girl_poster1.jpg" >
   				<img src="http://ninasoden.files.wordpress.com/2013/08/2star.jpg" >
   			</li>
-			
   		</ul>
-  	</div>
+	</div>	
+  </div>
 
 <!-- Tv show info -->
-  <div class="content"> 
-<center> 
-	<h1>The Vampire Diaries</h1>
-	<hr />
-</center>	
+<div class="main-content">
+ <div class="placeMain-content">
+    <center> 
+	  <h1>The Vampire Diaries</h1>
+	  <hr />
+    </center>	
 	
-<div class="review">
+   <div class="review">
 	<h3>Write a review here:</h3>
 	<br />
 	<textarea name="comments" rows=5 cols=40>
 	</textarea><br />
 	<button onclick="alert('Your comment has been submitted for review.')">Submit</button>
-</div>
+    <br />
+    <h3>Reviews:</h3>
+	<h4>name...</h4>
+    <p class="reviewText"> 
+	OK so i just finished this pilot-it was awesome and i have high hopes for the series. I have not read the books but have heard 	of them and love 	everything vampires and this show does not disappoint. Well cast, looks expensive, legit 'this is how teens talk' dialogue. This is the age old 	vampire story: dark brooding vampire meets young human girl. Kevin Williamson is able to balance the tension of the story with humor and irony. All of 	the characters are good looking and can deliver the snappy dialogue with ease. Even the cheesier elements (see: fog) don't take themselves too 	seriously. If you like true blood, twilight and loved buffy then you should all watch this show (mostly so that i can see the second episode!!)</p>
+   </div>
 
-<div class="placing">
-	<p><img src="http://us.cdn2828.fansshare.com/photos/thevampirediaries/tvd-iv-survive-or-die-promo-poster-the-vampire-diaries-poster-491799575.jpg" width="20%" </p>
-	<p class="text"> <b>Summary:</b> <br /> Trapped in adolescent bodies, feuding vampire brothers Stefan and Damon vie for the affection of captivating teenager Elena, who attempts to unravel the many dark secrets of her hometown of Mystic Falls. </p>
+   <div class="placing">
+	<p><img src="http://us.cdn2828.fansshare.com/photos/thevampirediaries/tvd-iv-survive-or-die-promo-poster-the-vampire-diaries-poster-491799575.jpg" 	width="70%"</p>
+	<p class="text"> <b>Summary:</b> <br /> Trapped in adolescent bodies, feuding vampire brothers Stefan and Damon vie for the affection of captivating 	teenager Elena, who attempts to unravel the many dark secrets of her hometown of Mystic Falls.</p>
+  </div>
+ </div>
 </div>
- </div> 
-	  
 	    
 	    
 	<script>
