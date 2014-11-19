@@ -37,4 +37,27 @@ Comedy->
   
   
 -The Vampire Diaries
+-American Horror Story
+-The Affair
+- Boardwalk Empire
+- The Blacklist
+- The Big Bang Theory
+- Bones
+- Criminal Minds
+- Doctor who
+- Gotham
+- Gossip Girl
+- Game of Thrones
+- Grey´s Anatomy
+- Gilmore Girls
+- Outlander
+- The Originals
+- Orange is the new black
+- Pretty little liars
+- Prison Break
+- Peaky Blinders
+- Suits
+- The Strain
+- Supernatural
+- The Walking Dead
   
