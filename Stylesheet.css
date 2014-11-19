@@ -2,6 +2,8 @@ header{
 	background-color:#00688B;
 	border-bottom: 2px solid #00688B;
 	box-shadow: 5px 5px 16px #888888;
+	position: fixed;
+	width:100%;
 }
 
 body{
@@ -78,7 +80,7 @@ form {
 
 /*Hovedinnhold*/
 .main-content{
-	margin-top:20px;
+	margin-top:130px;
 	float:left;
 	width:70%;
 	display:inline-block;
@@ -89,7 +91,7 @@ form {
 
 /*Top Rated Shows*/
 .additional-content{
-	margin-top:20px;
+	margin-top:160px;
 	float:right;
 	width:30%;
 	display:inline-block;
@@ -114,7 +116,6 @@ form {
 }
 
 /*Tv show info start*/
-/*text input felt*/
 h1{
 	font-family: 'Rajdhani', sans-serif;
 	color: #000000;
@@ -161,12 +162,17 @@ h4{
 	font-size:14px; 
 }
 
+.reviewText i{
+	font-size:12px;
+	font-family: 'Oxygen', sans-serif;
+}
+
 .placing{
 	margin-left:30px;
 	position:inline-block;
 	width:40%;
 }
-
+/*text input felt*/
 textarea{
 	width:100%;
 }
