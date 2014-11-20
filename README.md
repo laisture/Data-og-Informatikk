@@ -49,8 +49,8 @@ Comedy->
 - Believe
 - Black Box
 - Burn Notice    *
-- Brothers ans Sisters
-- Criminal Minds
+- Brothers ans Sisters   *
+- Criminal Minds    *
 - Castle*
 - CSI
 - Chuck
