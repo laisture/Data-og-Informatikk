@@ -33,8 +33,7 @@
 
 	$altStars2 = "4 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "Trapped in adolescent bodies, feuding vampire brothers Stefan and Damon vie for the affection of captivating
-				teenager Elena, who attempts to unravel the many dark secrets of her hometown of Mystic Falls."; // Here goes the second review text.
+	$review2 = "I love this show it got an amazing storyline and vampire diaries has got everthing its not just vampires its got witches, love stories, murder action and literally everthing you would want and the actors are great. anyone who loves shows and films like moonlight, twilight, true blood etc will definately love this interesting and fun tv series i love twilight but would pick this show over it anyday its fantastic i have actually watched all the episodes like a million times and now i really cant wait till the next episode."; // Here goes the second review text.
 
 
 	include 'template_header.php';
