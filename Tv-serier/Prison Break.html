@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	   <link rel="stylesheet" type="text/css" href="../Stylesheet.css">
+  </head>
+ <body>
+  <header>
+	  <nav> 
+	      <div id="logo">
+	       	<img id="logo" src="../Logo.jpg" width=28.6%>
+	      </div>
+	  <!-- MENU "SIGN IN" -->
+      <button id="signInButton" onclick="openSignIn()"> Sign in </button>
+	 <div class="onclick-menu-content">
+	  <form name="input" id="signIn">
+		Name: <input type="text" name="fname" required placeholder="enter your name">
+			<br />
+		Email: <input type="email" name="email" required placeholder="enter your email address">
+			<br />
+		Username: <input type="text" name="user" required placeholder="enter a username">
+			<br />
+		Password: <input type="password" name="pwd" required placeholder="enter a password">
+			<br />
+		<input type="submit" value="Submit" onclick="validateForm1()">
+	  </form>
+	 </div>
+      <!-- MENU "LOG IN" -->
+	  <button id="logInButton" onclick="openLogIn()"> Log in </button>
+	 <div class="onclick-menu-content">
+	  <form name="input2" id="logIn">
+		Username: <input type="text" name="user" required placeholder="enter your username">
+			<br />
+		Password: <input type="password" name="pwd" required placeholder="enter your password">
+			<br />
+		<input type="submit" value="Log in" onclick="validateForm2()">
+      </form>
+	 </div>
+     <!-- MENU "MY SITE" -->
+      <a id="mysite" href="MySite.html">MySite</a>
+	</nav>			
+  </header>
+  
+  <!-- TOP RATED SHOWS -->
+  <div class="additional-content">
+  	<div class="placeAdditional-content">	
+		<ul> 
+			<li id="TopRated">Top Rated Tv Shows</li>
+  			<li> 
+  				<img src= 				"http://img3.wikia.nocookie.net/__cb20121027014436/vampirediaries/images/1/1e/The-vampire-diaries-season-4-cover-poster-artwork.jpg" >
+  				<img src= "http://s3-ec.buzzfed.com/static/enhanced/webdr03/2013/3/6/16/enhanced-buzz-12132-1362606821-12.jpg" >
+  			</li>
+  			<li> 
+  				<img src="http://ncismusic.com/images/NCIS_Score_CD.jpg" >
+  				<img src="http://tyffanickemp.com/wp-content/uploads/2014/07/4-stars.jpg" >
+  			</li>
+  			<li> 
+  				<img src="http://static.pblogs.gr/f/254748-PrisonBreakSeason401-1.jpg" >
+  				<img src="http://tyffanickemp.com/wp-content/uploads/2014/07/4-stars.jpg" >
+  			</li>
+  			<li> 
+  				<img src="http://unspoiledpodcasts.com/wp-content/uploads/2014/09/Breaking-Bad.jpg" >
+  				<img src="http://www.clipartbest.com/cliparts/Kcj/gqG/KcjgqGdoi.jpeg" >
+  			</li>
+  			<li> 
+  				<img src="http://www.newsprintnow.net/wp-content/uploads/2012/12/gossip_girl_poster1.jpg" >
+  				<img src="http://ninasoden.files.wordpress.com/2013/08/2star.jpg" >
+  			</li>
+  		</ul>
+	</div>	
+  </div>
+
+<!-- Tv show info -->
+<div class="main-content">
+ <div class="placeMain-content">
+    <center> 
+	  <h1>Prison Break</h1>
+	  <hr />
+    </center>	
+	
+	<div class="review">
+	<p class="text"> <b>Summary:</b> <br /> When his brother is wrongly convicted of murder a structural engineer resolves to bust his sibling out of the notorious Fox River State Penitenetiary.</p>
+	<h3>Write a review here:</h3>
+	<br />
+	<textarea name="comments" rows=7 cols=40>
+	</textarea><br />
+	<button onclick="alert('Your comment has been submitted for review.')">Submit</button>
+    <br />
+    <h4>Reviews:</h4>
+    <p class="reviewText"> <i><b>By Finn,</b> Oct 15 2014</i> <br /> <img src="5-stars.png"width="20%"> <br /> You will be entertained from beginning to end. Make sure you watch season 1 and 2, they are the best ones. This show is original, and my opinion is that it is flawless. The actor/actresses are auperb. They will grow on you evenually. The story line is so original and there are moments that are so special! I hate how I have to wait a week until the new episode come out! Monday just doesn't come fast enough! It is a shame to see it lose ratings because of season 3. I mean, the bar was set too high from season 1 and 2.</p>
+	<p class="reviewText"> <i><b>By Eric,</b> Oct 10 2014</i> <br /> <img src="2-stars.png"width="20%"> <br /> Season 1 & 2 are well written, well directed and well produced. Season 3 & 4 take on new writers, directors, and producers. The only thing that stays the same are the actors. Because of the bad directing and writing the actors lose the chemistry that makes the show so compelling. The entrance of Michael Rappaport greatly diminishes the quality of acting. If you simply liked season 1 & 2 you will be disappointed. But if you fall in love with season 1 & 2 you will be down right disgusted with the direction that the show takes. The show completely losses it's humor, it's romance, and it's edge. It gets down right boring. Save yourself several hours of hoping it gets because it doesn't.</p> 
+   </div>
+
+   <div class="placing">
+	<p><img src="http://impawards.com/tv/posters/prison_break_ver3.jpg"width="70%"</p>
+  </div>
+ </div>
+</div>
+	    
+	    
+	<script>
+		function openSignIn()
+		{
+			if(document.getElementById("signIn").style.display == "block")
+				document.getElementById("signIn").style.display = "none";
+			else
+				document.getElementById("signIn").style.display = "block";
+		}
+		
+		function openLogIn()
+		{
+			if(document.getElementById("logIn").style.display == "block")
+				document.getElementById("logIn").style.display = "none";
+			else 
+				document.getElementById("logIn").style.display = "block";
+		}
+		
+		function validateForm1() {
+			var navn = document.forms["input"]["fname"].value;
+			var mail = document.forms["input"]["email"].value;
+			var usern = document.forms["input"]["user"].value;
+			var psswrd = document.forms["input"]["pwd"].value;
+			if (navn != "" && mail != "" && usern != "" && psswrd != "" )	{
+				alert ("You have successfully registered!");
+				return true;
+				}
+			}
+			
+		function validateForm2() {
+			var username = document.forms["input2"]["user"].value;
+			var password = document.forms["input2"]["pwd"].value;
+		    if (username != "" && password != "") {
+				alert ("You are now logged in!");
+				return true;
+				}
+			}
+	</script>
+  </body>		
+
+</html>		  		
