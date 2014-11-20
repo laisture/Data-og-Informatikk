@@ -40,11 +40,11 @@ Comedy->
 - The Affair    *
 - Arrow           *
 - Americans
-- American Dreams
+- American Dreams  
 - Boardwalk Empire     *
 - Breaking Bad        *
 - The Blacklist       *
-- The Big Bang Theory
+- The Big Bang Theory *
 - Bones           *
 - Believe
 - Black Box
@@ -66,7 +66,7 @@ Comedy->
 - Fargo
 - Following
 - Family guy
-- Friends
+- Friends *
 - Fringe
 - Gotham
 - Gossip Girl            *
@@ -84,7 +84,7 @@ Comedy->
 - House of Cards        *
 - Home and Away
 - Heroes
-- How i met your mother
+- How i met your mother *
 - I´m with her
 - Inside
 - Judging Amy
@@ -105,7 +105,7 @@ Comedy->
 - New girl
 - Nurse Jackie
 - Outlander
-- The Originals
+- The Originals *
 - Orange is the new black
 - Once upon a time
 - One Tree hill
