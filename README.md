@@ -52,8 +52,8 @@ Comedy->
 - Brothers ans Sisters   *
 - Criminal Minds    *
 - Castle*
-- CSI
-- Chuck
+- CSI   *
+- Chuck    *
 - Cougar town
 - Doctor who
 - Dexter
