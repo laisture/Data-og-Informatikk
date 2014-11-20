@@ -37,7 +37,7 @@ Comedy->
   
   
 - American Horror Story       *
-- The Affair
+- The Affair    *
 - Arrow           *
 - Americans
 - American Dreams
