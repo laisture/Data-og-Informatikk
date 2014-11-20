@@ -56,8 +56,8 @@ Comedy->
 - Chuck    *
 - Cougar town   *
 - Doctor who   *
-- Dexter
-- Dallas
+- Dexter   *
+- Dallas    *
 - Days of our lives
 - Elementary
 - Escape Club
