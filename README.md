@@ -38,14 +38,14 @@ Comedy->
   
 - American Horror Story 
 - The Affair
-- Arrow
+- Arrow           *
 - Americans
 - American Dreams
 - Boardwalk Empire
 - Breaking Bad
 - The Blacklist
 - The Big Bang Theory
-- Bones *
+- Bones           *
 - Believe
 - Black Box
 - Burn Notice
@@ -62,14 +62,14 @@ Comedy->
 - Elementary
 - Escape Club
 - E! True Hollywood Story
-- Flash
+- Flash           *
 - Fargo
 - Following
 - Family guy
 - Friends
 - Fringe
 - Gotham
-- Gossip Girl
+- Gossip Girl            *
 - Game of Thrones
 - Grey´s Anatomy
 - Gilmore Girls
@@ -100,7 +100,7 @@ Comedy->
 - Mad men
 - Mindy project
 - Middle
-- NCIS
+- NCIS            *
 - Nashville
 - New girl
 - Nurse Jackie
@@ -111,8 +111,8 @@ Comedy->
 - One Tree hill
 - Once upon a time in Wonderland
 - Office
-- Pretty little liars
-- Prison Break
+- Pretty little liars 
+- Prison Break            *
 - Peaky Blinders
 - Person of interest
 - Revenge
@@ -132,10 +132,10 @@ Comedy->
 - Twilight zone
 - Unforgettable
 - Ugly Betty
-- The Vampire Diaries
+- The Vampire Diaries           *
 - Vikings
 - Veronica Mars
-- The Walking Dead
+- The Walking Dead            *
 - White collar
 - Wire
 - Weeds
