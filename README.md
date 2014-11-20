@@ -69,7 +69,7 @@ Comedy->
 - Friends *
 - Fringe
 - Gotham
-- Gossip Girl            *
+- Gossip Girl    *
 - Game of Thrones
 - Grey´s Anatomy
 - Gilmore Girls
@@ -120,10 +120,10 @@ Comedy->
 - Rizzoli & Isles
 - Suits
 - The Strain
-- Agents og S.H.I.E.L.D
-- Supernatural
-- Sex and the city
-- Scandal
+- Agents og S.H.I.E.L.D   *
+- Supernatural          *
+- Sex and the city     *
+- Scandal               *
 - Sleepy Hollow
 - Secret Life Of An American Teenager
 - Secret Sircle
