@@ -42,8 +42,8 @@ Comedy->
 - Americans
 - American Dreams
 - Boardwalk Empire     *
-- Breaking Bad
-- The Blacklist
+- Breaking Bad        *
+- The Blacklist       *
 - The Big Bang Theory
 - Bones           *
 - Believe
