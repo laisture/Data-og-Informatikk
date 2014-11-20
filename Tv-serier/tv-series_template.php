@@ -1,6 +1,6 @@
 <?php
 
-	$title = ""; // Here goes the title of the tv-serie.
+	$title = "Castle"; // Here goes the title of the tv-serie.
 
 	$summary = ""; // Here goes the summary of the tv-serie.
 
