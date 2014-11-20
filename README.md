@@ -58,8 +58,8 @@ Comedy->
 - Doctor who   *
 - Dexter   *
 - Dallas    *
-- Days of our lives
-- Elementary
+- Days of our lives  *
+- Elementary  *
 - Escape Club
 - E! True Hollywood Story
 - Flash           *
