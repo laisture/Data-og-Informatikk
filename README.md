@@ -73,8 +73,8 @@ Comedy->
 - Game of Thrones   *
 - Grey´s Anatomy    *
 - Gilmore Girls
-- Good wife
-- Grimm
+- Good wife   *
+- Grimm   *
 - General Hospital
 - Game
 - Hawaii five-o
