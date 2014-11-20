@@ -54,8 +54,8 @@ Comedy->
 - Castle*
 - CSI   *
 - Chuck    *
-- Cougar town
-- Doctor who
+- Cougar town   *
+- Doctor who   *
 - Dexter
 - Dallas
 - Days of our lives
