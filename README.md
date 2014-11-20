@@ -67,8 +67,8 @@ Comedy->
 - Following   *
 - Family guy    *
 - Friends *
-- Fringe
-- Gotham
+- Fringe   *
+- Gotham   *
 - Gossip Girl    *
 - Game of Thrones
 - Grey´s Anatomy
