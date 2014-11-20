@@ -128,14 +128,14 @@ Comedy->
 - Secret Life Of An American Teenager
 - Secret Sircle
 - Tomorrow People
-- Two and a half men
+- Two and a half men  *
 - Twilight zone
 - Unforgettable
-- Ugly Betty
-- The Vampire Diaries           *
-- Vikings
-- Veronica Mars
-- The Walking Dead            *
-- White collar
+- Ugly Betty         *
+- The Vampire Diaries  *
+- Vikings              *
+- Veronica Mars       *
+- The Walking Dead      *
+- White collar         *
 - Wire
 - Weeds
