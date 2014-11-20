@@ -70,7 +70,7 @@ Comedy->
 - Fringe   *
 - Gotham   *
 - Gossip Girl    *
-- Game of Thrones
+- Game of Thrones   *
 - Grey´s Anatomy
 - Gilmore Girls
 - Good wife
