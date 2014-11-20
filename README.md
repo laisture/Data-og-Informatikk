@@ -63,9 +63,9 @@ Comedy->
 - Escape Club
 - E! True Hollywood Story
 - Flash           *
-- Fargo
-- Following
-- Family guy
+- Fargo   *
+- Following   *
+- Family guy    *
 - Friends *
 - Fringe
 - Gotham
