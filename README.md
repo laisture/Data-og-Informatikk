@@ -124,13 +124,13 @@ Comedy->
 - Supernatural          *
 - Sex and the city     *
 - Scandal               *
-- Sleepy Hollow
-- Secret Life Of An American Teenager
-- Secret Sircle
+- Sleepy Hollow        *
+- Secret Life Of An American Teenager *
+- Secret Sircle  *
 - Tomorrow People
 - Two and a half men  *
 - Twilight zone
-- Unforgettable
+- Unforgettable 
 - Ugly Betty         *
 - The Vampire Diaries  *
 - Vikings              *
