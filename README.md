@@ -78,8 +78,8 @@ Comedy->
 - General Hospital
 - The Game * 
 - Hawaii five-o   *
-- Heart of dixie
-- Helix 
+- Heart of dixie   *
+- Helix    *
 - Haven
 - House of Cards        *
 - Home and Away
