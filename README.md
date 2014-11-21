@@ -76,8 +76,8 @@ Comedy->
 - Good wife   *
 - Grimm   *
 - General Hospital
-- Game
-- Hawaii five-o
+- The Game * 
+- Hawaii five-o   *
 - Heart of dixie
 - Helix 
 - Haven
