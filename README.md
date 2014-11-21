@@ -96,13 +96,13 @@ Comedy->
 - Law & order *
 - Lost girl
 - The L word
-- Modern family
+- Modern family*
 - Mad men
 - Mindy project
 - Middle
 - NCIS            *
 - Nashville
-- New girl
+- New girl 
 - Nurse Jackie
 - Outlander
 - The Originals *
@@ -115,7 +115,7 @@ Comedy->
 - Prison Break            *
 - Peaky Blinders
 - Person of interest
-- Revenge
+- Revenge  *
 - Reign
 - Rizzoli & Isles
 - Suits
