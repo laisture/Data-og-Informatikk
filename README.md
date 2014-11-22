@@ -84,14 +84,14 @@ Comedy->
 - Knight rider  *
 - Lost        *
 - Law & order *
-- Lost girl
+- Lost girl *
 - Modern family*
-- Mad men
-- Mindy project
+- Mad men *
+- Mindy project *
 - NCIS            *
-- Nashville
+- Nashville *
 - The Originals *
-- Orange is the new black
+- Orange is the new black *
 - Once upon a time       *
 - One Tree hill         *
 - Office
