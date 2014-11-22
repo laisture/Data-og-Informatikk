@@ -108,7 +108,7 @@ Comedy->
 - Sleepy Hollow        *
 - Secret Life Of An American Teenager *
 - Secret Sircle  *
-- Tomorrow People
+- Tomorrow People   *
 - Two and a half men  *
 - Unforgettable  *
 - Ugly Betty         *
