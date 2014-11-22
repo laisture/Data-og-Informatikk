@@ -78,10 +78,10 @@ Comedy->
 - I´m with her  *
 - Inside   *
 - Judging Amy   *
-- Jessie
-- Jury
-- The Killing
-- Knight rider
+- Jessie   *
+- Jury    *
+- The Killing  *
+- Knight rider  *
 - Lost        *
 - Law & order *
 - Lost girl
