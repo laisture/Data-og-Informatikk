@@ -56,7 +56,7 @@ Comedy->
 - Dallas    *
 - Days of our lives  *
 - Elementary  *
-- Escape Club
+- Escape Club  *
 - Flash           *
 - Fargo   *
 - Following   *
@@ -75,9 +75,9 @@ Comedy->
 - Helix    *
 - House of Cards        *
 - How i met your mother *
-- I´m with her
-- Inside
-- Judging Amy
+- I´m with her  *
+- Inside   *
+- Judging Amy   *
 - Jessie
 - Jury
 - The Killing
