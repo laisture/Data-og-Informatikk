@@ -15,8 +15,13 @@ Action->
   Law & order->
     Police
       -NCIS
+      -Criminal minds*
+      -Castle*
+      -CSI*
+      -The Blacklist*
     Other
       -Agents of Shield
+      -Bones*
 Drama->
   Social->
     Girly->
@@ -28,28 +33,35 @@ Drama->
       -House
     Shady->
       -Breaking Bad
+      -Bordwalk empire*
 Fantasy->
   Future->
   Past->
   Animation->
+  Horror->
 Comedy->
   Animation->
+    Stop Motion->
+    
   Live Action->
+  
+  (Social->)
+  (Work->)
   
   
 - American Horror Story       *
 - The Affair    *
-- Arrow           *
-- Boardwalk Empire     *
-- Breaking Bad        *
-- The Blacklist       *
+- Arrow           *-
+- Boardwalk Empire     *-
+- Breaking Bad        *-
+- The Blacklist       *-
 - The Big Bang Theory *
-- Bones           *
-- Burn Notice    *
+- Bones           *-
+- Burn Notice    *-
 - Brothers ans Sisters   *
-- Criminal Minds    *
-- Castle*
-- CSI   *
+- Criminal Minds    *-
+- Castle*-
+- CSI   *-
 - Chuck    *
 - Cougar town   *
 - Doctor who   *
@@ -59,7 +71,7 @@ Comedy->
 - Elementary  *
 - Escape Club  *
 - Flash           *
-- Fargo   *
+- Fargo   *-
 - Following   *
 - Family guy    *
 - Friends *
