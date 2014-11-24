@@ -4,7 +4,7 @@
 
 	$summary = "Forner government agent Raymond Red Reddington has eluded capture for decades. But he suddenly surrenders to the FBI with an offer to help catch a terrorist."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://th08.deviantart.net/fs70/PRE/f/2014/097/8/3/the_blacklist___poster_by_nonotwithoutyou-d7ddb0z.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="TheBlacklist.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of The Blacklist"; // Here goes the alt text for the poster picture.
 
