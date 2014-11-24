@@ -4,7 +4,7 @@
 
 	$summary = "The psychological effects of an affair between a married waitress at a Hamptons diner and a teacher who spends his summer at his in-laws´ estate on the island."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://loadtv.biz/wp-content/uploads/2014/08/The-Affair-poster-Showtime-season-1-2014.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="TheAffair.jpg"; // Here goes the url for the poster of the tv-serie.
 	
 	$altPoster ="The poster of The Affair"; // Here goes the alt text for the poster picture.
 
