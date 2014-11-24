@@ -4,7 +4,7 @@
 
 	$summary = "A woman with a troubled past is drawn to a New England town where fairy tales are to be believed.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://upload.wikimedia.org/wikipedia/en/f/f1/Once_Upon_a_TimeSeason_4_Poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="OnceUponATime.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Once upon a time"; // Here goes the alt text for the poster picture.
 
