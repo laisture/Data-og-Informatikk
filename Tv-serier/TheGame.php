@@ -4,7 +4,7 @@
 
 	$summary = "A spin-off of ´Girlfriends´ featuring a group of women who all have relationships with professional football players."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://s.ecrater.com/stores/60130/4e70fe6cd77fd_60130n.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="TheGame.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of The Game"; // Here goes the alt text for the poster picture.
 
