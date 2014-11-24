@@ -4,7 +4,7 @@
 
 	$summary = "It follows the adventures of Ragnar Lothbrok the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods, legend has it that he was a direct descendant of Odin, the god of war and warriors."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://wallpapertube.tk/wp-content/uploads/vikings-poster-1.jpeg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Vikings.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Vikings"; // Here goes the alt text for the poster picture.
 
