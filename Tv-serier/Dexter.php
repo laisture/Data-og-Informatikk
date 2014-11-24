@@ -4,7 +4,7 @@
 
 	$summary = "A Miami police forensics expert moonlights as a serial killer of criminals whom he believes have escaped justice."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://pmctvline2.files.wordpress.com/2011/08/dexter_firstlook_600110812071729.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Dexter.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Dexter"; // Here goes the alt text for the poster picture.
 
