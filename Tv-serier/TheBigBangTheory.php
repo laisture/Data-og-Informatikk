@@ -4,7 +4,7 @@
 
 	$summary = "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://iv1.lisimg.com/image/4331399/600full-the-big-bang-theory-poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="TheBigBangTheory.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of The Big Bang Theory"; // Here goes the alt text for the poster picture.
 
