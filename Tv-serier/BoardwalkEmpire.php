@@ -4,7 +4,7 @@
 
 	$summary = "An Atlantic City politician plays both sides of the law, conspiring with gangsters during the Prohibition era."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://ecx.images-amazon.com/images/I/91pPlPbWyiL._SL1500_.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="BoardwalkEmpire.jpg"; // Here goes the url for the poster of the tv-serie.
 	
 	$altPoster ="The poster of Boardwalk Empire"; // Here goes the alt text for the poster picture.
 
