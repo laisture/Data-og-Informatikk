@@ -4,7 +4,7 @@
 
 	$summary = "The Secret Circle series follows 16-year-old Cassie, who moves from California to live with her mom in New Salem and falls in love with a mysterious boy named Adam. But, when she enrolls in high school there, she realizes that he, she and all the other elite students at the school are witches! She befriends their leader, Diana, but soon discovers that Adam and Diana are dating, which leads to a whole bunch of complicated drama.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="https://image-cdn.zap2it.com/images/secret-circle-poster-coven-.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="SecretCircle.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Secret Sircle"; // Here goes the alt text for the poster picture.
 
