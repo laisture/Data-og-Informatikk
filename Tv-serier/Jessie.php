@@ -4,7 +4,7 @@
 
 	$summary = "A Texan teen moves to New York City to follow her dreams and ends up as a nanny for a high profile couple's four children.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://media-cache-ec0.pinimg.com/236x/fd/ef/87/fdef87292e28cc73217a77a2bfdbbf2b.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Jessie.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Jessie"; // Here goes the alt text for the poster picture.
 
