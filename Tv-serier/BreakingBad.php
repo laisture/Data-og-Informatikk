@@ -4,7 +4,7 @@
 
 	$summary = "A high school chemistry teacher turns to a life of crime in order to provide for his family´s future."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://img2.wikia.nocookie.net/__cb20100330051000/breakingbad/images/3/37/Season_3_Poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="BreakingBad.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Breaking Bad"; // Here goes the alt text for the poster picture.
 
