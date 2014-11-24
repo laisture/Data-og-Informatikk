@@ -4,7 +4,7 @@
 
 	$summary = "A spy recently disavowed by the U.S government uses his special ops training to help others in trouble."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://img2.wikia.nocookie.net/__cb20130504231403/burnnotice/images/e/e3/Burn-notice-season-2.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="BurnNotice.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Burn Notice"; // Here goes the alt text for the poster picture.
 
