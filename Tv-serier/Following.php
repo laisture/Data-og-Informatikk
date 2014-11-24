@@ -4,7 +4,7 @@
 
 	$summary = "A brilliant charismatic, yet psychotic serial killer communicates with other active serial killers and activates a cult of believers following his every command. "; // Here goes the summary of the tv-serie.
 
-	$poster ="https://fanart.tv/fanart/tv/258744/tvposter/the-following-5266858d4552f.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Following.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of The Following"; // Here goes the alt text for the poster picture.
 
