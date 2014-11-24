@@ -4,7 +4,7 @@
 
 	$summary = "The story behind Commissioner James Gordon's rise to prominence in Gotham City in the years before Batman's arrival."; // Here goes the summary of the tv-serie.
 
-	$poster = "http://serialgotham.ru/uploads/posts/2014-08/1407391435_serialgotham.ru_tumblr_n9gjtdnqzl1t0qyojo1_1280.png"; // Here goes the url for the poster of the tv-serie.
+	$poster = "Gotham.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Gotham"; // Here goes the alt text for the poster picture.
 
