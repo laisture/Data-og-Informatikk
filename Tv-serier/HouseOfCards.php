@@ -4,7 +4,7 @@
 
 	$summary = "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://img4.wikia.nocookie.net/__cb20140217231358/house-of-cards/images/a/a8/House_of_Cards_Season_1_Poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="HouseOfCards.jpg"; // Here goes the url for the poster of the tv-serie.
 	
 	$altPoster ="The poster of House Of Cards"; // Here goes the alt text for the poster picture.
 
