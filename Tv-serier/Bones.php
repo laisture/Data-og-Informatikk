@@ -4,7 +4,7 @@
 
 	$summary = "A forensic anthropologist teams up with an FBI agent to investigate crimes that have left scant evidence behind: namely, the bones of the deseased."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://stuffpoint.com/bones/image/357232-bones-bones-poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Bones.jpg"; // Here goes the url for the poster of the tv-serie.
 	
 	$altPoster ="The poster of Bones"; // Here goes the alt text for the poster picture.
 
