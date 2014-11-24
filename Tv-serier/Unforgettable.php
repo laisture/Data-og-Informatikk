@@ -4,7 +4,7 @@
 
 	$summary = "Carrie sWells, a former NY Police detective, has a rare medical condition that gives her the ability to visually remember everything. she rejoins the force ans uses her ability to solve crimes."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.spoilersguide.com/media/images/wp-content/uploads/2011/08/unforgettable_xlg.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Unforgettable.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Unforgettable"; // Here goes the alt text for the poster picture.
 
