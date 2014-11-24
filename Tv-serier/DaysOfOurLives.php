@@ -4,7 +4,7 @@
 
 	$summary = "A chronicle of the lives, loves, trials and tribulations of the citizens of the fictional city of Salem."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://archive.wkyc.com/weblog/directors_cut/uploaded_images/dayslogo-771984.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="DaysOfOurLives.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Days Of Our Lives"; // Here goes the alt text for the poster picture.
 
