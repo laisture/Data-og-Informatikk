@@ -4,7 +4,7 @@
 
 	$summary = "The daughter of a framed executive makes it her mission to infiltrate upper Hamptons society and exact revenge on the people who set her father up.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://2.bp.blogspot.com/-c8uk27KLdfk/UCb1AaVpe9I/AAAAAAAADP0/THzCFi3qezM/s1600/revenge-season-2-poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Revenge.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Revenge"; // Here goes the alt text for the poster picture.
 
