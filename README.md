@@ -19,7 +19,7 @@ Action->
       -Castle*
       -CSI*
       -The Blacklist*
-    Other
+    Specialists
       -Agents of Shield
       -Bones*
 Drama->
