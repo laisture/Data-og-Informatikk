@@ -4,7 +4,7 @@
 
 	$summary = "A white collar criminal agrees to help the FBI catch other white collar criminals using his expertise as an art and securities thief, counterfeiter and racketeer. "; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.tribute.ca/tribute_objects/images/movies/White_Collar_The_Complete_Third_Season/whitecollarthecompletethirdseason.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="WhiteCollar.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of White collar"; // Here goes the alt text for the poster picture.
 
