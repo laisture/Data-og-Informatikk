@@ -4,7 +4,7 @@
 
 	$summary = "A fading Nashville superstar is forced to team up with a teen sensation or face the loss of her tour and promotion of her latest records.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://cdn.media.abc.com/m/images/global/generic/shows_1x1-hirez/nashville.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Nashville.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Nashville"; // Here goes the alt text for the poster picture.
 
