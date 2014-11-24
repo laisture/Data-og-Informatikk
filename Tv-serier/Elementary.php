@@ -4,7 +4,7 @@
 
 	$summary = "A modern take on the cases of Sherlock Holmes, with the detective now living in New York City."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://i.perezhilton.com/wp-content/uploads/2012/06/elementary-poster__oPt.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Elementary.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Elementary"; // Here goes the alt text for the poster picture.
 
