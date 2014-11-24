@@ -4,7 +4,7 @@
 
 	$summary = "A father recounts to his children, through a series of flashbacks, the journey he and his four best friends took leading up to him meeting their mother."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.vortexcultural.com.br/images/2014/04/how-i-met-your-mother-poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="HowIMetYourMother.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of How i met your mother"; // Here goes the alt text for the poster picture.
 
