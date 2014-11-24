@@ -4,7 +4,7 @@
 
 	$summary = "Kristen Bell provides the voice of an anonymous blogger who narrates the action in this hit series set in an exclusive New York City boarding school."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://img2.wikia.nocookie.net/__cb20120926215739/gossipgirl/images/3/39/Promotional-Poster-Gossip-Girl-season-6-gossip-girl-32224573-653-960.jpeg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="GossipGirl.jpg"; // Here goes the url for the poster of the tv-serie.
 	
 	$altPoster ="The poster of Gossip girl"; // Here goes the alt text for the poster picture.
 
