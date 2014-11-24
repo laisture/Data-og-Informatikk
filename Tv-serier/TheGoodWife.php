@@ -4,7 +4,7 @@
 
 	$summary = "Alicia has been a good wife to her husband, a former state´s attorney. After a very humiliating sex and corruption scandal, he is behind bars. She must now provide for her family and returns to work as a litigator in a law firm."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.pariscine.com/sites/default/files/affiches_series_tv/the_good_wife_1.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="TheGoodWife.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of The Good Wife"; // Here goes the alt text for the poster picture.
 
