@@ -4,7 +4,7 @@
 
 	$summary = "A former CIA operative is recruited by an engimatic bilionaire to prevent violent crimes."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.dvdsreleasedates.com/covers/person-of-interest-season-one-dvd-cover-96.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="PersonOfInterest.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Person Of Interest"; // Here goes the alt text for the poster picture.
 
