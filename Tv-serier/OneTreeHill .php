@@ -4,7 +4,7 @@
 
 	$summary = "It follows the eventful lives of some high-school kids in Tree Hill, a small but not too quiet town in North Carolina, where the greatest source of pride is the high school basketball team, the Ravens.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://upload.wikimedia.org/wikipedia/en/1/1a/One_Tree_Hill_-_Season_1_-_DVD.JPG"; // Here goes the url for the poster of the tv-serie.
+	$poster ="OneTreeHill.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of One Tree hill "; // Here goes the alt text for the poster picture.
 
