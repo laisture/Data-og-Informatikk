@@ -4,7 +4,7 @@
 
 	$summary = "When a twnty-something computer geek invadertently downloads critical government secrets into his brain, CIA and NSA assign two agents to protect him and exploit such knowledge, turning his life upside down."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://nerdreactor.com/wp-content/uploads/2014/05/Chuck-Season-5-Promotional-Picture-NEW.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Chuck.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Chuck"; // Here goes the alt text for the poster picture.
 
