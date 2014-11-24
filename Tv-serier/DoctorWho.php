@@ -4,7 +4,7 @@
 
 	$summary = "A sci-fi tv programme where a lone time lord called the doctor travels in time and space with his companion to save and protect planet Earth for menacing aliens."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.panicposters.com/media/catalog/product/cache/1/image/f63dc5ec28f3175f8a7f615bd217eb71/p/p/pp32642-doctor-who-poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="DoctorWho.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Doctor Who"; // Here goes the alt text for the poster picture.
 
