@@ -4,7 +4,7 @@
 
 	$summary = "Three different, but related families face trials and tribulations in their own uniquely comedic ways."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://stuffpoint.com/modern-family/image/360154-modern-family-modern-family-poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="ModernFamily.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Modern family"; // Here goes the alt text for the poster picture.
 
