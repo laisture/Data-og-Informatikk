@@ -4,7 +4,7 @@
 
 	$summary = "Lost Girl focuses on the gorgeous and charismatic Bo, a supernatural being called a succubus who feeds on the energy of humans, sometimes with fatal results. Refusing to embrace her supernatural clan system and its rigid hierarchy, Bo is a renegade who takes up the fight for the underdog while searching for the truth about her own mysterious origins."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://img3.wikia.nocookie.net/__cb20130420235305/doblaje/es/images/7/7f/Lost-girl-poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="LostGirl.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Lost girl"; // Here goes the alt text for the poster picture.
 
