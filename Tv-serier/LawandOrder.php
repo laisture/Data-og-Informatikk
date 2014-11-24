@@ -4,7 +4,7 @@
 
 	$summary = "The show follows a crime, ususally adapted from current headlines, from two separate vantage points. The first half of the show concentrates on the investigation of the crime by the police, the second half follows the prosecution of the crime in court. "; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.dvdsreleasedates.com/covers/law-and-order-the-tenth-year-dvd-cover-34.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="LawAndOrder.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Law & order"; // Here goes the alt text for the poster picture.
 
