@@ -4,7 +4,7 @@
 
 	$summary = "Seven noble families fight for control of the mythical land of Westeros."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://images.moviepostershop.com/game-of-thrones-tv-movie-poster-2011-1010697745.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="GameOfThrones.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Game of Thrones"; // Here goes the alt text for the poster picture.
 
