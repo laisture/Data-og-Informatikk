@@ -4,7 +4,7 @@
 
 	$summary = "The cases of the Naval Criminal Investigative Service. Leading this team that operates outside of the military chain of command is NCIS Special Agent Leroy Jethro Gibbs, a skilled investigator and interrogator who is smart, tough and willing to bend the rules to get the job done. From murder and espionage to terrorism and stolen submarines, these special agents traverse the globe to investigate all crimes with Navy or Marine Corps ties."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.dvdsreleasedates.com/covers/ncis-the-complete-ninth-season-dvd-cover-49.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="NCIS.jpg"; // Here goes the url for the poster of the tv-serie.
 	
 	$altPoster ="The poster of NCIS also known as the Naval Criminal Investigative Service"; // Here goes the alt text for the poster picture.
 
