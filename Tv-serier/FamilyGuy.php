@@ -4,7 +4,7 @@
 
 	$summary = "In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://p1308.hizliresim.com/1d/b/rbs89.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="FamilyGuy.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Family Guy"; // Here goes the alt text for the poster picture.
 
