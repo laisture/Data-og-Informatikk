@@ -4,7 +4,7 @@
 
 	$summary = "A television drama centered around a female FBI agent who is forced to work with an institutionalized scientist in order to rationalize a brewing storm of unexplained phenomena. "; // Here goes the summary of the tv-serie.
 
-	$poster ="https://telestrekoza.com/link-gallery/uploads/Fringe/Posters/Season_1/Fringe-s1-poster-013.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Fringe.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Fringe"; // Here goes the alt text for the poster picture.
 
