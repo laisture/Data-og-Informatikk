@@ -4,7 +4,7 @@
 
 	$summary = "Band geek Amy discovers that she's pregnant after a one-night stand with Ricky Underwood, the school's player. Meanwhile, devout Christian cheerleader Grace	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://images.amazon.com/images/P/B0043CT976.01.LZZZZZZZ.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="SecretLifeOfAnAmericanTeenager.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Secret Life Of An American Teenager"; // Here goes the alt text for the poster picture.
 
