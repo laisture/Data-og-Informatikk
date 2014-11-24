@@ -4,7 +4,7 @@
 
 	$summary = "A terminally ill chemistry teacher teams with a former student to manufacture srystal meth to secure his family`s future."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.moviesonline.ca/wp-content/uploads/2010/09/TWD_1-SHEET_WEB.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Walkingdead.jpg"; // Here goes the url for the poster of the tv-serie.
 	
 	$altPoster ="The poster of Walking dead"; // Here goes the alt text for the poster picture.
 
