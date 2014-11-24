@@ -4,7 +4,7 @@
 
 	$summary = "The cases of the BAU an elite group of profilers that analyze the nation´s most dangerous criminal minds in an effort to anticipate their next moves before they strike again."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://pipocamoderna.virgula.uol.com.br/wp-content/uploads/2013/05/Criminal-Minds-Poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="CriminalMinds.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Criminal Minds"; // Here goes the alt text for the poster picture.
 
