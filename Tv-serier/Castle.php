@@ -4,7 +4,7 @@
 
 	$summary = "After a serial killer imitates the plots of his novels, successful mystery novelist Richard Rick Castle gets permission from the Mayor of New York City to tag along with NYPD homicide investigation team for research purposes."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://images4.fanpop.com/image/photos/15400000/Season-3-Promo-Poster-castle-15462979-768-1024.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Castle.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Castle"; // Here goes the alt text for the poster picture.
 
