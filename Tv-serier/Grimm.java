@@ -4,7 +4,7 @@
 
 	$summary = "A homicide detective discovers he is a descendant of hunters who fight supernatural forces."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://alienbee.net/wp-content/uploads/2013/04/Grimm-Comic-Con-Poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Grimm.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Grimm"; // Here goes the alt text for the poster picture.
 
