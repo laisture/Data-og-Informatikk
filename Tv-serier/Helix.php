@@ -4,7 +4,7 @@
 
 	$summary = "A team of scientists are thurst into a potentially life-or-death situation in this thriller, which begins with the group being deployed to the Arctic to secretly investigate what could be a disease outbreak."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.liveforfilms.com/wp-content/uploads/2013/12/Helix-Poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Helix.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Helix"; // Here goes the alt text for the poster picture.
 
