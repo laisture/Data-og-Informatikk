@@ -4,7 +4,7 @@
 
 	$summary = "The story of several young people from around the world who reprsent the next stage in human evolution, ppssessing special powers, including the ability to teleport and communicate."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://seriesnews.biz/wp-content/uploads/2013/05/The-Tomorrow-People-Season-1-Poster.jpeg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="TomorrowPeople.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of The Tomorrow People"; // Here goes the alt text for the poster picture.
 
