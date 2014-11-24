@@ -4,7 +4,7 @@
 
 	$summary = "Base don DC Comics Green Arrow an affluent playboy becomes a vengeful superhero, saving the city from villains armed with just a bow and arrows."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.impawards.com/tv/posters/arrow_ver3_xlg.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Arrow.jpg"; // Here goes the url for the poster of the tv-serie.
 	
 	$altPoster ="The poster of Arrow"; // Here goes the alt text for the poster picture.
 
