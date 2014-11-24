@@ -4,7 +4,7 @@
 
 	$summary = "New York is the setting for this courtroom drama about a jury of 12 different men and women delibrating various capital crime cases while under the supervision of the courthouse staff ranging from the bailif, the head clerk, the messenger, and the judge, prosecuter and defense lawyer.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://pics.filmaffinity.com/The_Jury_II_TV_Series-397761905-large.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Jury.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Jury "; // Here goes the alt text for the poster picture.
 
