@@ -4,7 +4,7 @@
 
 	$summary = "Six men and six women who are unhappy with their lives arrive at an exclusive tropical resort to reboot. They learn that they must compete against each other to hold onto this newly-found slice of paradise."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://cf.yidio.com/images/tv/25748/poster-180x270.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="EscapeClub.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Escape Club"; // Here goes the alt text for the poster picture.
 
