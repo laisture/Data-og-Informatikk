@@ -5,7 +5,7 @@
 	$summary = "Trapped in adolescent bodies, feuding vampire brothers Stefan and Damon vie for the affection of captivating
 				teenager Elena, who attempts to unravel the many dark secrets of her hometown of Mystic Falls."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://us.cdn2828.fansshare.com/photos/thevampirediaries/tvd-iv-survive-or-die-promo-poster-the-vampire-diaries-poster-491799575.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="VampireDiaries.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of The Vampire Diaries"; // Here goes the alt text for the poster picture.
 
