@@ -26,6 +26,7 @@ Drama->
   Social->
     Girly->
       -Sex and the city
+      -Pretty little liars*
     Not so girly->
       -Fargo
   Work->
@@ -35,15 +36,29 @@ Drama->
       -Breaking Bad
       -Bordwalk empire*
 Fantasy->
-  Future->
-  Past->
-  Animation->
+  Sience fiction->*
+    Future&Past->*
+      -Doctor who*
+    Present->*
+      -Knight rider*
   Horror->
+    Vampires->*
+      -Vampire diaries*
+      -The originals*
+    Other->*
+      -Supernatural*
+      -The secret circle*
+    
+  //Future->
+  // Past->
+  // Animation->
 Comedy->
   Animation->
     Stop Motion->
-    
+    Rendered->
   Live Action->
+    Sitcom->
+    Not->
   
   (Social->)
   (Work->)
