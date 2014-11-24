@@ -4,7 +4,7 @@
 
 	$summary = "Betty Suarez is smart, sweet and hard working. The only problem is that she's not thin and beautiful like all her coworkers at Mode, the high-fashion magazine where she works. The only reason the publisher hired her to be his son's secretary, is that he thought Betty was someone who Daniel would never sleep with."; // Here goes the summary of the tv-serie.
 
-	$poster ="https://www.movieposter.com/posters/archive/main/107/MPW-53633"; // Here goes the url for the poster of the tv-serie.
+	$poster ="UglyBetty.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Ugly Betty"; // Here goes the alt text for the poster picture.
 
