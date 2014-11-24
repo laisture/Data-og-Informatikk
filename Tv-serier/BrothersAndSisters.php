@@ -4,7 +4,7 @@
 
 	$summary = "The story of the dama surrounding a family´s adult siblings."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://ecx.images-amazon.com/images/I/51N2WOAAWjL.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="BrothersAndSisters.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Brothers and Sisters"; // Here goes the alt text for the poster picture.
 
