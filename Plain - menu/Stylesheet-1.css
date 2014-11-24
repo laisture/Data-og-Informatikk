@@ -175,10 +175,9 @@ textarea{
 	display:inline-block;
 }
 .placeForm-content{
-	padding:30px;
-    width: 30%;
-	position: absolute;
-	margin-left:400px;
+	
+    width: 356px;
+	margin:0 auto;
 }
 
 #signup {
