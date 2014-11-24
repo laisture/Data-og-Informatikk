@@ -4,7 +4,7 @@
 
 	$summary = "A police investigation, the saga of a grieving family, and a Seattle mayoral campaign all interlock after the body of 17-year-old Rosie Larsen is found in the trunk of a submerged car.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://cdn7.nflximg.net/images/0797/10860797.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="TheKilling.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of The Killing"; // Here goes the alt text for the poster picture.
 
