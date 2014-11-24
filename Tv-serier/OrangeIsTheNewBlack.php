@@ -4,7 +4,7 @@
 
 	$summary = "The story of Piper Chapman, a woman in her thirties who is sentenced to fifteen months in prison after being convicted of a decade-old crime of transporting money for her drug-dealing girlfriend."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://cdn6.nflximg.net/images/5366/11535366.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="OrangeIsTheNewBlack.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Orange is the new black"; // Here goes the alt text for the poster picture.
 
