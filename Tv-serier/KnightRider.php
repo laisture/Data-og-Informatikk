@@ -4,7 +4,7 @@
 
 	$summary = "When a group of ruthless mercenaries kill a reclusive scientist, his creation, a new model of artificially intelligent supercar, escapes to find his daughter and recruit a ex-soldier to thwart them."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://media.moddb.com/images/downloads/1/29/28329/Knight_Rider.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="KnightRider.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Knight rider"; // Here goes the alt text for the poster picture.
 
