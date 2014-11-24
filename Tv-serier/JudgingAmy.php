@@ -4,7 +4,7 @@
 
 	$summary = "A family drama focused on three generations of women living together in Hartford, Connecticut. Amy Brenneman plays Amy Gray, who left New York City behind and now works as a family court judge. Karle Warren plays Lauren, Amy's daughter; Tyne Daly is Maxine, Amy's tough, opinionated mother."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://pics.filmaffinity.com/Judging_Amy_TV_Series-271596355-large.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="JudgingAmy.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Judging Amy"; // Here goes the alt text for the poster picture.
 
