@@ -4,7 +4,7 @@
 
 	$summary = "The next generation of the Ewing family - cousins John Ross Ewing and Christopher Ewing - clash over the family´s oil business and vast fortune."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.seat42f.com/wp-content/uploads/2013/02/Dallas-Season-2-Poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Dallas.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Dallas"; // Here goes the alt text for the poster picture.
 
