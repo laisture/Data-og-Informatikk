@@ -4,7 +4,7 @@
 
 	$summary = "A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://joshuaziefle.files.wordpress.com/2012/04/78f61f66b187595520bc0e0.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="MadMen.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Mad men"; // Here goes the alt text for the poster picture.
 
