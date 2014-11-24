@@ -4,7 +4,7 @@
 
 	$summary = "The Original vampire family, from The Vampire Diaries, return and settle in the city they helped build, New Orleans."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://i.huffpost.com/gen/1319873/thumbs/o-THE-ORIGINALS-570.jpg?6"; // Here goes the url for the poster of the tv-serie.
+	$poster ="TheOriginals.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of The Originals"; // Here goes the alt text for the poster picture.
 
