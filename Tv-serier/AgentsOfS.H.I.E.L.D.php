@@ -4,7 +4,7 @@
 
 	$summary = "After helping to thwart Hydra, Agent Phil Coulson was appointed as Director and tasked with rebuilding the agency. By his side are Agent Melinda May, expert pilot, martial artist and longtime friend, and computer hacker Skye, now a full-fledged S.H.I.E.L.D. agent. Agent Leo Fitz, brilliant engineer, and Agent Jemma Simmons, genius bio-chemist, are dealing with the impacts of their near-death experience at the hands of Grant Ward, a highly trained agent in combat and espionage, who was found to be a Hydra mole. Also joining Coulson's core team is Lance Hunter, a dashing mercenary sharp shooter with a quick wit."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://img2.wikia.nocookie.net/__cb20131028191427/avengers/de/images/b/bf/Marvel's_Agents_of_S.H.I.E.L.D..jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="AgentsOfS.H.I.E.L.D.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Agents of SHIELD"; // Here goes the alt text for the poster picture.
 
