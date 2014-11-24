@@ -4,7 +4,7 @@
 
 	$summary = "Ichabod Crane is resurrected and pulled two and a half centuries through time to unravel a mystery that dates all the way back to the founding fathers.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://seriesnews.biz/wp-content/uploads/2013/07/Sleepy-Hollow-Season-1-Poster-4.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="SleepyHollow.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Sleepy Hollow"; // Here goes the alt text for the poster picture.
 
