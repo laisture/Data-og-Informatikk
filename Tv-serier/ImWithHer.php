@@ -4,7 +4,7 @@
 
 	$summary = "On the day that would change his life, delightful young everyman Patrick Owen is drinking his mid-morning latte when he's bitten by love. Literally. The gnashing jaws belong to Monroe, the easily-excited puppy of movie star Alexandra Young. When she tries to apologize and when Patrick recognizes her famous face he's awestruck, dumbstruck, and so very charming."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://zap2it.tmsimg.com/tvbanners/h5/AllPhotos/184918/p184918_b_h3_aa.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="ImWithHer.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of  I am with her "; // Here goes the alt text for the poster picture.
 
