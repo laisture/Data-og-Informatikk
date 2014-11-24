@@ -4,7 +4,7 @@
 
 	$summary = "Steve McGarrett returns home to Oahu, in order to find his father´s killer. The governor offers him the chance to run his own task force(Five-O). Steve´s team is joined by Chin Ho Kelly, Danny ´Danno´Willliams, and Kono Kalakaua."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://images.moviepostershop.com/hawaii-five-0-movie-poster-2010-1020555844.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="HawaiiFiveO.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Hawaii Five-O."; // Here goes the alt text for the poster picture.
 
