@@ -4,7 +4,7 @@
 
 	$summary = "The survivors of a plane crash are forced to live with each other on a remote island, a dangerous new world that poses unique threats of its own."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://img2.wikia.nocookie.net/__cb20091118030241/lostpedia/images/9/94/LostSeason6OfficialPoster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Lost.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Lost"; // Here goes the alt text for the poster picture.
 
