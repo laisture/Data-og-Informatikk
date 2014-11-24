@@ -4,7 +4,7 @@
 
 	$summary = "A former White House Communications Director starts her own crisis management firm only to realize her clients are not the only ones with secrets."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://upload.wikimedia.org/wikipedia/en/2/20/Scandal_Season_3.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Scandal.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Scandal"; // Here goes the alt text for the poster picture.
 
