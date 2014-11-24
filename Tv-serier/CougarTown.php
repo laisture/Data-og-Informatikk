@@ -4,7 +4,7 @@
 
 	$summary = "A recently divorced woman decides to fin some axcitement in her dating life."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://ecx.images-amazon.com/images/I/51%2BV-WpZOoL.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="CougarTown.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Cougar Town"; // Here goes the alt text for the poster picture.
 
