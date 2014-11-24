@@ -4,7 +4,7 @@
 
 	$summary = "In this psychological thriller, rookie FBI Agent Rebecca Locke joins the Bureau's Los Angeles Violent Crimes Unit, unaware that she's been hand-picked for the dangerous job by its imposing leader, Supervisory Special Agent Virgil Web Webster. Web is among the few who know that Rebecca was abducted and held captive as a young girl, a traumatic experience that affords her a unique insight into the mindset of villain and victim alike."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://nsm05.casimages.com/img/2011/03/09//1103090828461266547784738.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Inside.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Inside"; // Here goes the alt text for the poster picture.
 
