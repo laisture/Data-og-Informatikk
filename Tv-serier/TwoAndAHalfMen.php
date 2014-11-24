@@ -4,7 +4,7 @@
 
 	$summary = "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://i2.cdnds.net/11/30/550w_two_and_half_men_poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="TwoAndAHalfMen.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Two and a half men"; // Here goes the alt text for the poster picture.
 
