@@ -4,7 +4,7 @@
 
 	$summary = "A gangster family epic set in 1919 Birmingham, England and centered on a gang who saw razor blades in the peaks of theri caps, and their fierce boss Tommy Shelby, who means to move up in the world."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.statepress.com/wp-content/uploads/2014/10/peaky-blinders-cillian-murphy-600-lg.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="PeakyBlinders.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Peaky Blinders"; // Here goes the alt text for the poster picture.
 
