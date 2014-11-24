@@ -4,7 +4,7 @@
 
 	$summary = "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inapproperiate behavior, and tedium. Based on the hit BBC series."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.animaholics.com/wp-content/themes/invictus/timthumb.php?src=http://www.animaholics.com/wp-content/uploads/2012/04/poster-the-office-314x449.jpg&w=940&a=c&q=100"; // Here goes the url for the poster of the tv-serie.
+	$poster ="TheOffice.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of The Office"; // Here goes the alt text for the poster picture.
 
