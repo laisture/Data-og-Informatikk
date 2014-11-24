@@ -4,7 +4,7 @@
 
 	$summary = "Six young people, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life. "; // Here goes the summary of the tv-serie.
 
-	$poster ="http://stuffpoint.com/friends/image/84658-friends-friends-poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Friends.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Friends"; // Here goes the alt text for the poster picture.
 
