@@ -4,7 +4,7 @@
 
 	$summary = "New Yorker and new doctor Zoe Hart accepts an offer from a stranger, Dr Harley Wilkes, to work in his medical practice in Bluebell, Alabama. Shearrives to find he has died and left half the practice to her in his will."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://img3.wikia.nocookie.net/__cb20111230163743/hartofdixie/images/f/f4/2-new-promo-posters-of-Hart-Of-Dixie-November-Sweeps-Posters-rachel-bilson-26207833-700-884.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="HeartOfDixie.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Heart of Dixie"; // Here goes the alt text for the poster picture.
 
