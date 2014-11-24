@@ -4,7 +4,7 @@
 
 	$summary = "An anthology series that centers on different characters and locations, including a haunted house, an insane asylum, a witch coven and a freak show."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://upload.wikimedia.org/wikipedia/en/8/8a/American_Horror_Story_Asylum_DVD.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="AmericanHorrorStory.jpg"; // Here goes the url for the poster of the tv-serie.
 	
 	$altPoster ="The poster of American Horror Story"; // Here goes the alt text for the poster picture.
 
