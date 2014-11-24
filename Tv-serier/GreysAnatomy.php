@@ -4,7 +4,7 @@
 
 	$summary = "A drama centeres on the personal and professional lives of five surgical interns and their supervisors."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.hollywoodreporter.com/sites/default/files/custom/LESLEY/Greys_Anatomy_Key_Art_Blog_Embed.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="GreysAnatomy.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Grey´s Anatomy"; // Here goes the alt text for the poster picture.
 
