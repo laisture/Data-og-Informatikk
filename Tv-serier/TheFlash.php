@@ -4,7 +4,7 @@
 
 	$summary = "The adventures of forensic scientist, Barry Allen, who fights evil in Central City as a superfast superhero."; // Here goes the summary of the tv-serie.
 
-	$poster ="https://fanart.tv/fanart/tv/279121/tvposter/the-flash-2014-54556dffddbd4.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="TheFlash.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of the Flash"; // Here goes the alt text for the poster picture.
 
