@@ -4,7 +4,7 @@
 
 	$summary = "A drifter named Lorne Malvo arrives in small-town Minnesota and influences the population with his malice and violence, including put-upon insurance salesman Lester Nygaard."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.ntsang.net/wp-content/uploads/2014/06/Fargo-poster.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Fargo.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Fargo"; // Here goes the alt text for the poster picture.
 
