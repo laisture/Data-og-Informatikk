@@ -4,7 +4,7 @@
 
 	$summary = "An elite team of police forensic evidence anvestigation experts work their cases in Las Vegas."; // Here goes the summary of the tv-serie.
 
-	$poster ="https://telestrekoza.com/link-gallery/albums/Current_shows/CSI/Posters/CSI-keyartcomp902i.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="CSI.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of CSI"; // Here goes the alt text for the poster picture.
 
