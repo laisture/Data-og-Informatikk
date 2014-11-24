@@ -4,7 +4,7 @@
 
 	$summary = "The murder of high-school student, Lilly Kane, shook the seaside town of Neptune, California to the core. For once popular girl, Veronica Mars, it meant the loss of her best friend; and being ousted from the affluent crowd, she once thought were her friends. Now, Veronica, with her sardonic wit and few new friends, works as his assistant while also navigating life as a high school (and later college) student."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.posters57.com/images/categories/VERONICA_MARS.jpg=600.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="VeronicaMars.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Veronica Mars"; // Here goes the alt text for the poster picture.
 
