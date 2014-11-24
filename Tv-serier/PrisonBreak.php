@@ -4,7 +4,7 @@
 
 	$summary = "When his brother is wrongly convicted of murder a structural engineer resolves to bust his sibling out of the notorious Fox River State Penitenetiary."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://impawards.com/tv/posters/prison_break_ver3.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="PrisonBreak.jpg"; // Here goes the url for the poster of the tv-serie.
 	
 	$altPoster ="The poster of Prison Break"; // Here goes the alt text for the poster picture.
 
