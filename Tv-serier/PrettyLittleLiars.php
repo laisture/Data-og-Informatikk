@@ -4,7 +4,7 @@
 
 	$summary = "Four friends band together against an anonymous foe who threatens to reveal their darkest secrets, whilst unraveling the mystery of the murder of their best friend.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.dvdsreleasedates.com/covers/pretty-little-liars-the-complete-first-season-dvd-cover-03.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="PrettyLittleLiars.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Pretty little liars"; // Here goes the alt text for the poster picture.
 
