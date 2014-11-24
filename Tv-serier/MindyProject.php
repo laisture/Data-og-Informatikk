@@ -4,7 +4,7 @@
 
 	$summary = "A young Ob/Gyn doctor balances her personal and professional life, surrounded by quirky co-workers in a small office.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://www.crunkfeministcollective.com/wp-content/uploads/2013/05/mindy-project__oPt.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="MindyProject.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Mindy project"; // Here goes the alt text for the poster picture.
 
