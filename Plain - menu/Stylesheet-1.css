@@ -1,7 +1,6 @@
 header{
-	background-color:#00688B;
-	border-bottom: 2px solid #00688B;
-	box-shadow: 5px 5px 16px #888888;
+	background-color:#181916;
+	border-bottom: 2px solid #181916;
 	position: fixed;
 	width:100%;
 }
@@ -9,6 +8,7 @@ header{
 body{
 	padding:0; /* streching background on header*/
 	margin:0;
+	background-color:#FDFDFD;
 }
 #logo{
 	float: left;
@@ -39,7 +39,7 @@ nav ul li{
     display: inline;
 	font-family: 'Archivo Narrow', sans-serif;
 	font-size: 17px;
-	border-right: 1px solid #0AE;
+	border-right: 1px solid #FDFDFD;
 	width:100%;
 }
 
@@ -77,12 +77,19 @@ nav ul li a:hover {
 .additional-content{
 	margin-top:160px;
 	float:right;
-	width:30%;
+	margin-right:20px;
+	width:25%;
 	display:inline-block;
+	background-color:#FFFFFF;
+	border-radius: 5px;
+    box-shadow: 
+        0px 0px 0px 2px #181916, 
+        0px 4px 20px #000;
 }
 
 .placeAdditional-content{
-	padding:30px;
+	padding:0px;
+	width:100%;
 }
 
 #TopRated{
