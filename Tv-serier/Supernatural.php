@@ -4,7 +4,7 @@
 
 	$summary = "Two brothers follow their father's footsteps as hunters fighting evil supernatural beings of many kinds including monsters, demons, and gods that roam the earth.	"; // Here goes the summary of the tv-serie.
 
-	$poster ="http://media-cache-ec0.pinimg.com/236x/50/dd/c6/50ddc600b1090d85536e377279f380d0.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="Supernatural.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Supernatural"; // Here goes the alt text for the poster picture.
 
