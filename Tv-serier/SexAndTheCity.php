@@ -4,7 +4,7 @@
 
 	$summary = "A sensuous and ironic sitcom about four young, desirable, virtually inseparable New York bachelorettes who lead and confide in each-other their ever changing and confusing sex lives, as different as their natures."; // Here goes the summary of the tv-serie.
 
-	$poster ="http://suitesculturelles.files.wordpress.com/2011/03/sex-and-the-city.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="SexAndTheCity.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Sex and the city"; // Here goes the alt text for the poster picture.
 
