@@ -62,16 +62,6 @@ nav ul li a:hover {
 	color:#c5cbcc;
 }
 
-#blank a{
-	color:#00688B;
-	border-right: none;	
-	margin-left: 30px;
-	margin-right: 30px;
-}
-#blank {
-	border-right: none;	
-}
-
 /*Hovedinnhold*/
 .main-content{
 	margin-top:130px;
