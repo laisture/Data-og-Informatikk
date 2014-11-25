@@ -1,7 +1,7 @@
 header{
 	background-color:#181916;
 	border-bottom: 2px solid #181916;
-	position: fixed;
+	position: absolute;
 	width:100%;
 }
 
@@ -15,6 +15,7 @@ body{
 	float: left;
 	margin-top:-28px;
 	width:40%;
+	
 }
 
 /* Menu bar */
@@ -34,6 +35,10 @@ nav ul{
 	width:60%;
 	float:right;
 	text-align:right;
+}
+
+#menu{
+	width:100%;
 }
 
 nav ul li{
@@ -163,7 +168,9 @@ h4{
 	margin-left:30px;
 	position:inline-block;
 	width:40%;
+	height-min:40px;
 }
+
 /*text input felt*/
 textarea{
 	width:100%;
@@ -259,4 +266,97 @@ textarea{
 
 #signup .inputs #submit:hover {
     border: 2px solid #737b8d;
+}
+
+/*ALL SHOWS*/
+#main{
+	margin-top:130px;
+	float:left;
+	width:91%;
+	display:inline-block;
+}
+
+#top{
+	text-align:right;
+	margin-top:580px;
+	float:right;
+	margin-right:5px;
+	width:91px;
+	display:inline-block;
+	position:fixed;
+}
+
+#top a{
+    width: 100%;
+    margin-top: 20px;
+    padding: 13px 5px;
+    color: white;
+    font-size: 14px;
+    
+    letter-spacing: 1px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+	background-color:#abb7d1;
+}
+
+#top a:hover{
+	background-color:#767a84;
+}
+
+#abcnav {
+	padding: 30px;
+	text-align: center;
+	margin-top:20px;
+	float:left;
+	width:100%;
+	display:inline-block;
+}
+
+#abcnav a{
+	display: inline-block;
+	padding: 15px;
+	box-shadow:0 0 2px grey;
+}
+
+#abcnav a:hover{
+	box-shadow:none;
+	transition:box-shadow 0.4s;
+}
+
+#abcnav:link, #abcnav:visited {
+	display: block;
+	font-weight: bold;
+	color: #000000;
+	background-color: blue;
+	width: 120px;
+	padding: 4px;
+	text-decoration: none;
+}
+
+.box{
+	display: inline-block;
+	width: 10%;
+	height: 150px;
+	margin: 30px;
+	vertical-align: top;
+}
+
+.box img{
+	height: 120px;
+	width: 70%;
+}
+
+.serienavn{
+	font-family: ProximaNovaT-Thin, "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h5 {
+	text-align:center;
+	font-family: ProximaNovaT-Thin, "Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #000000;
+	margin: 0;
+	padding: 0px 0px 6px 0px;
+	font-size: 40px;
+	line-height: 55px;
 }
