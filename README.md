@@ -11,7 +11,7 @@ Action->
       -The flash
     No super powers
       -Arrow
-      -Burn notice*
+      -Burn notice
   Law & order->
     Police
       -NCIS
@@ -21,12 +21,12 @@ Action->
       -The Blacklist*
     Specialists
       -Agents of Shield
-      -Bones*
+      -Bones
 Drama->
   Social->
     Girly->
       -Sex and the city
-      -Pretty little liars*
+      -Pretty little liars
     Not so girly->
       -Fargo
   Work->
@@ -34,20 +34,20 @@ Drama->
       -House
     Shady->
       -Breaking Bad
-      -Bordwalk empire*
+      -Bordwalk empire
 Fantasy->
   Sience fiction->*
     Future&Past->*
-      -Doctor who*
+      -Doctor who
     Present->*
       -Knight rider*
   Horror->
     Vampires->*
-      -Vampire diaries*
-      -The originals*
+      -Vampire diaries
+      -The originals
     Other->*
-      -Supernatural*
-      -The secret circle*
+      -Supernatural
+      -The secret circle
     
   //Future->
   // Past->
