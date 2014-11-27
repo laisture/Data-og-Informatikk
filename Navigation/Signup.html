@@ -1,0 +1,54 @@
+ <!-- MENU "SIGN IN" -->
+<!DOCTYPE html>
+<html>
+  <head>
+	   <link rel="stylesheet" type="text/css" href="../Stylesheet-1.css">
+  </head>
+   <body>
+  <header>
+	<nav>
+	      <div class="logo">
+			  <a href="Home.html"><img class="logo" src="Logo.jpg" width=28.6% alt="The logo of the website"></a>
+	      </div>
+  	 <ul id="menu">
+	  <li><a href="Signup.html">Sign up</a></li>
+       <li><a href="Login.html">Log in</a></li>
+       <li class="last"><a href="AllSeries.html">All shows</a></li>
+      </ul>
+	</nav>
+  </header>
+
+
+<div class="form-content">
+	<div class="placeForm-content">
+        <form name="input" id="signup">
+			<div class="header">
+              <h3>Sign Up</h3>
+              <p>Please complete your details</p>
+             </div>
+             <div class="line"></div>
+            	<div class="inputs">
+        		<input type="email" name="email"required placeholder="Enter your e-mail" autofocus />
+			    <input type="text" name="user" required placeholder="Enter a username" />
+				<input type="password" name="pwd" required placeholder="Enter a password" />
+                <input id="submit" type="submit" value="SIGN UP NOW" onclick="validateForm1()" />
+          </form>
+    	</div>
+	</div>
+</div>
+
+
+ 	<script>
+ 		function validateForm1() {
+ 			var mail = document.forms["input"]["email"].value;
+ 			var usern = document.forms["input"]["user"].value;
+ 			var psswrd = document.forms["input"]["pwd"].value;
+ 			if (mail != "" && usern != "" && psswrd != "")	{
+ 				alert ("You have successfully registered!");
+ 				return true;
+ 				}
+ 			}
+ 	</script>
+</body>
+
+</html>

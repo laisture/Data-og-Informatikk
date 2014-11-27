@@ -1,0 +1,57 @@
+<!-- MENU "LOG IN" -->
+<!DOCTYPE html>
+<html>
+  <head>
+	   <title>...</title>
+	   <link rel="stylesheet" type="text/css" href="../Stylesheet-1.css">
+  </head>
+   <body> 
+  <header>
+	<nav> 
+	      
+      <ul id="menu">
+	  <li><a href="Signup.html">Sign up</a></li>
+       <li><a href="Login.html">Log in</a></li>
+       <li class="last"><a href="#">All shows</a></li>
+      </ul>
+	  
+      <div id="logo">
+		  <a href="Menu.html"><img id="logo" src="Logo.jpg" width=28.6%></a>
+      </div>
+	</nav>			
+  </header>
+  
+
+<div class="form-content"> 
+	<div class="placeForm-content">
+		<form name="input2" id="signup">
+			<div class="header">
+              <h3>Log in</h3>
+              <p>Please complete your details</p>
+             </div>
+             <div class="line"></div>
+              <div class="inputs">
+			  <label>Username:</label><br/>
+			  <input type="text" name="user" required placeholder="Enter your username" autofocus>
+			   <label>Password:</label><br/>
+			  <input type="password" name="pwd" required placeholder="Enter your password">
+              <input type="submit" id="submit" value="LOG IN NOW" onclick="validateForm2()">
+  		</div>
+		</form>
+	</div>
+</div>
+  
+  
+     <script>
+	 	function validateForm2() {
+			var username = document.forms["input2"]["user"].value;
+			var password = document.forms["input2"]["pwd"].value;
+    		if (username != "" && password != "") {
+				alert ("You are now logged in!");
+			return true;
+			}
+		}
+	
+     </script>
+  </body>		
+</html>	
