@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "This series combines a strong cast with good writing. Every episode is getting better as the series go on and I definitely think the latest episodes are better than the previous ones. The actor/actresses are superb and they will grow on you eventually."; // Here goes the first review text.
+	$review1 = "This series has a really good cast alongside a well written script, Breaking Bad will blow you away. In the beginning it's really slow, but after a few episodes it starts to blow up. If you haven't watched it before, it's worth your time!."; // Here goes the first review text.
 
 	$name2 = "Marvin"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "What I really love about this series is that you never really get tired of it. The path and transformation that the characters go into is shown absolutely amazing. This show has one of the best story lines in all of TV. I have never seen a poorly written or produced episode at all. The series is original and in my opinion it is flawless. The amazing casting makes this series a success and I will definitely keep watching this show for as long as it stays on."; // Here goes the second review text.
+	$review2 = "I never got tired of Breaking Bad, action from the first episode to the last. Breaking bad is one of a kind, there are no other series like it, just try and see for youself, totally recommended!."; // Here goes the second review text.
 
 
 	include 'template_header.php';
