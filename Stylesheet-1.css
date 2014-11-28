@@ -275,7 +275,7 @@ textarea{
 	display:inline-block;
 }
 
-.Top{
+#top{
 	text-align:right;
 	margin-top:580px;
 	float:right;
@@ -285,7 +285,7 @@ textarea{
 	position:fixed;
 }
 
-.Top a{
+#top a{
     width: 100%;
     margin-top: 20px;
     padding: 13px 5px;
@@ -299,7 +299,7 @@ textarea{
 	background-color:#abb7d1;
 }
 
-.Top a:hover{
+#top a:hover{
 	background-color:#767a84;
 }
 
