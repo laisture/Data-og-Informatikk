@@ -69,7 +69,7 @@ Comedy->
 - Arrow           -
 - Boardwalk Empire     -
 - Breaking Bad        -
-- The Blacklist       *-
+- The Blacklist       -
 - The Big Bang Theory 
 - Bones           -
 - Burn Notice    -
