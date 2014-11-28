@@ -4,7 +4,7 @@
 
 	$summary = "SpongeBob SquarePants lives in the undersea township of Bikini Bottom. Along with him is his best friend a sea star named Patrick; his irritable neighbor named Squidward; and an athletic squirrel named Sandy. SpongeBob is employed as a fry cook at the local burger place, The Krusty Krab, which is operated by a penny-pinching crustacean named Mr. Krabs."; // Here goes the summary of the tv-serie.
 
-	$poster ="SpongebobSquarepants.jpg"; // Here goes the url for the poster of the tv-serie.
+	$poster ="../Pictures/SpongebobSquarepants.jpg"; // Here goes the url for the poster of the tv-serie.
 
 	$altPoster ="The poster of Spongebob Squarepants"; // Here goes the alt text for the poster picture.
 

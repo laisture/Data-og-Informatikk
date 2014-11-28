@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "I finally took the plunge to join metacritic because it has been so accurate for me in for so many shows, except Breaking Bad. The cinematography was good, and the story was compelling just barely enough that I forced myself to watch the entire series. Overall, the characters have poor chemistry and do unrealistic things for each other, and the show crawls extremely slow: very soapy dialog and long silent shots of scenery. I don't know who's out there running the conspiracy, but I've seen some great shows and this is not one of them: proceed with caution."; // Here goes the first review text.
+	$review1 = "This series combines a strong cast with good writing. Every episode is getting better as the series go on and I definitely think the latest episodes are better than the previous ones. The actor/actresses are superb and they will grow on you eventually."; // Here goes the first review text.
 
 	$name2 = "Marvin"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,8 +26,7 @@
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "This is definetly without a shadow of doubt, one of the best series in history, few managed to pull such characters and plot as well as this TV series.Although it may seem that it's slow at first, it's pace is not nearly compared as the quality of story planning, acting and direction.
-In this stage where drama and tension simply take over the audience, Bryan Cranston performs brilliantly only to make people dive in even further into this scenario.It is absolutely amazing how AMC shows us the transformation and the path that all these characters go into, it is now crystal clear how powerful this Vince Gilligan's show can get, and how high can it achieve"; // Here goes the second review text.
+	$review2 = "What I really love about this series is that you never really get tired of it. The path and transformation that the characters go into is shown absolutely amazing. This show has one of the best story lines in all of TV. I have never seen a poorly written or produced episode at all. The series is original and in my opinion it is flawless. The amazing casting makes this series a success and I will definitely keep watching this show for as long as it stays on."; // Here goes the second review text.
 
 
 	include 'template_header.php';

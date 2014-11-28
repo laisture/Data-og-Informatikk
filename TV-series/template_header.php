@@ -14,7 +14,7 @@
   	 <ul id="menu">
 	       <li><a href="../Navigation/Signup.html">Sign up</a></li>
        <li><a href="../Navigation/Login.html">Log in</a></li>
-       <li class="last"><a href="../Navigation/AllSeries.html">All shows</a></li>
+       <li class="last"><a href="../Navigation/AllSeries.html">All series</a></li>
       </ul>
 	</nav>
   </header>
@@ -71,4 +71,7 @@
    </div>
 
    <div class="placing">
-   	<a><?php echo '<img src="' . $poster . '" alt ="' . $altPoster . '" width="70%"/>';?>
+   	<a><?php echo '<img src="' . $poster . '" alt ="' . $altPoster . '" width="70%"/>';?></a>
+	 </div>
+	 </div>
+</div>

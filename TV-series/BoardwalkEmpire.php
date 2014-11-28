@@ -16,7 +16,10 @@
 
 	$altStars1 = "2 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "So far I am not impressed with the show. It's very boring. The female characters have no personality or backbone. It's supposed to be a time period where women were trying to improve themselves and in this show they appear to be nothing more than sex objects. The gratuitous nudity takes away from the show. It's way too forced. I loved the Sopranos, which had a lot of nudity, but it was never forced like this show does. You don't need to show naked women just to show them. I'm going to give it a little more time to see if it gets better."; // Here goes the first review text.
+	$review1 = "OMG! This series is not good. I didn’t like the story or the characters. This is not interesting, they don´t even know how to act. Anyone else could have done this. It´s so many talents out there. Find them instead of using characters like this. I have just wasted my time by watching this bad series. I couldn´t watch more than a few episodes, but that was enough. Who would waste their time watching this?
+
+
+"; // Here goes the first review text.
 
 	$name2 = "Elias"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +29,7 @@
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "First and foremost, the writing on this television program is some of the best I've ever personally seen on the small screen. It's simply prodigious in both quantity and quality. The acting is fantastic. There really isn't a single performance throughout the entire season that I disliked. Perhaps my only criticism of the first twelve episodes is the overall slow, almost snail-like pace in which the story-lines are uncovered. Everything else about the show is great though, the costume & wardrobe departments should hopefully win A LOT of awards!"; // Here goes the second review text.
+	$review2 = "What I really love about this series is that you never really get tired of it. The path and transformation that the characters go into is shown absolutely amazing. This show has one of the best story lines in all of TV. I have never seen a poorly written or produced episode at all. The series is original and in my opinion it is flawless. The amazing casting makes this series a success and I will definitely keep watching this show for as long as it stays on."; // Here goes the second review text.
 
 
 	include 'template_header.php';

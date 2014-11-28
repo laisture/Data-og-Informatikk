@@ -1,24 +1,23 @@
 <!-- MENU "LOG IN" -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-	   <title>...</title>
+	   <title>Log in</title>
 	   <link rel="stylesheet" type="text/css" href="../Stylesheet-1.css">
   </head>
    <body> 
   <header>
 	<nav> 
 	      
-      <ul id="menu">
-	  <li><a href="Signup.html">Sign up</a></li>
-       <li><a href="Login.html">Log in</a></li>
-       <li class="last"><a href="#">All shows</a></li>
-      </ul>
-	  
-      <div id="logo">
-		  <a href="Menu.html"><img id="logo" src="Logo.jpg" width=28.6%></a>
-      </div>
-	</nav>			
+  	      <div class="logo">
+  			  <a href="Home.html"><img class="logo" src="Logo.jpg" width=28.6% alt="The logo of the website"></a>
+  	      </div>
+    	 <ul id="menu">
+  	  <li><a href="Signup.html">Sign up</a></li>
+         <li><a href="Login.html">Log in</a></li>
+         <li class="last"><a href="AllSeries.html">All series</a></li>
+        </ul>
+  	</nav>		
   </header>
   
 
@@ -31,16 +30,34 @@
              </div>
              <div class="line"></div>
               <div class="inputs">
-			  <label>Username:</label><br/>
-			  <input type="text" name="user" required placeholder="Enter your username" autofocus>
-			   <label>Password:</label><br/>
-			  <input type="password" name="pwd" required placeholder="Enter your password">
-              <input type="submit" id="submit" value="LOG IN NOW" onclick="validateForm2()">
-  		</div>
+			  	<label for="txtUsername">Username:</label><br />
+			  	<input type="text" name="user" id="txtUsername" required placeholder="Enter your username" autofocus>
+			  	<label for="txtPassword">Password:</label><br />
+			  	<input type="password" name="pwd" id="txtPassword" required placeholder="Enter your password">
+			  	<input type="submit" id="submit" value="LOG IN NOW" onclick="validateForm2()">	   
+  		     </div>
 		</form>
 	</div>
 </div>
-  
+
+  <footer>
+  	<center>	
+  		<p> This service is provided by TV SERIES. <br/>
+  			Serievegen 21, Oslo Norway. Tel: 0047 12345678</p>
+			
+  		<p>Find us on social media:</p>
+		
+  		<div class="socialbox">	
+  			<a href="http://www.facebook.com"><img class="social" src="../TV-series/Facebook.jpg" width=4%></a>
+  		</div>
+  		<div class="socialbox">
+  			<a href="http://www.twitter.com"><img class="social" src="../TV-series/Twitter.jpg" width=5%></a>
+  		</div>
+  		<div class="socialbox">
+  			<a href="http://www.youtube.com"><img class="social" src="../TV-series/Youtube.jpg" width=15%></a>
+  		</div>
+  	</center>
+  </footer>
   
      <script>
 	 	function validateForm2() {

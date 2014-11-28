@@ -1,7 +1,8 @@
  <!-- MENU "SIGN IN" -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+	  <title>Sign up</title>
 	   <link rel="stylesheet" type="text/css" href="../Stylesheet-1.css">
   </head>
    <body>
@@ -13,7 +14,7 @@
   	 <ul id="menu">
 	  <li><a href="Signup.html">Sign up</a></li>
        <li><a href="Login.html">Log in</a></li>
-       <li class="last"><a href="AllSeries.html">All shows</a></li>
+       <li class="last"><a href="AllSeries.html">All series</a></li>
       </ul>
 	</nav>
   </header>
@@ -28,15 +29,36 @@
              </div>
              <div class="line"></div>
             	<div class="inputs">
-        		<input type="email" name="email"required placeholder="Enter your e-mail" autofocus />
-			    <input type="text" name="user" required placeholder="Enter a username" />
-				<input type="password" name="pwd" required placeholder="Enter a password" />
-                <input id="submit" type="submit" value="SIGN UP NOW" onclick="validateForm1()" />
-          </form>
-    	</div>
+			  	<label for="email">Email:</label><br />
+			  	<input type="email" name="email" id="email" required placeholder="Enter your e-mail" autofocus>
+			  	<label for="txtUsername">Username:</label><br />
+			  	<input type="text" name="user" id="txtUsername" required placeholder="Enter a username">
+			  	<label for="txtPassword">Password:</label><br />
+			  	<input type="password" name="pwd" id="txtPassword" required placeholder="Enter a password">
+			  	<input type="submit" id="submit" value="SIGN UP NOW" onclick="validateForm1()">	
+    		</div>
+		</form>
 	</div>
 </div>
 
+  <footer>
+  	<center>	
+  		<p> This service is provided by TV SERIES. <br/>
+  			Serievegen 21, Oslo Norway. Tel: 0047 12345678</p>
+			
+  		<p>Find us on social media:</p>
+		
+  		<div class="socialbox">	
+  			<a href="http://www.facebook.com"><img class="social" src="../TV-series/Facebook.jpg" width=4%></a>
+  		</div>
+  		<div class="socialbox">
+  			<a href="http://www.twitter.com"><img class="social" src="../TV-series/Twitter.jpg" width=5%></a>
+  		</div>
+  		<div class="socialbox">
+  			<a href="http://www.youtube.com"><img class="social" src="../TV-series/Youtube.jpg" width=15%></a>
+  		</div>
+  	</center>
+  </footer>
 
  	<script>
  		function validateForm1() {

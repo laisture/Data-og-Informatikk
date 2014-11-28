@@ -16,17 +16,17 @@
 
 	$altStars1 = "3 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "The first season of American horror story had great plot, great actors, some interesting twists. It was scary and frightening at some points. I really liked this tv show. If you like this kind you will really like this little story. American Horror story Murder House. Says much right?"; // Here goes the first review text.
+	$review1 = "After only watching the first episode, I can tell it is a mindless and predictable series. When the first episodes began, I was interested and curious to find out what would happen, but after a while I got disappointed. The first episodes is well written and nicely produced but it feels empty and plot driven. But if you really enjoy this genre you may want to give this series a chance."; // Here goes the first review text.
 
 	$name2 = "Roger,"; // Here goes the name of the the second person who wrote a review.
 
 	$date2 = "Oct 14 2014"; // Here goes the date of the second review.
 
-	$stars2 = "3-stars.png"; // Here goes the image url for how many stars the user has given the tv-serie.
+	$stars2 = "4-stars.png"; // Here goes the image url for how many stars the user has given the tv-serie.
 
-	$altStars2 = "3 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
+	$altStars2 = "4 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "American Horror story is my new favourite show. Nothing is expected. The story itself is a compelling story that draws your attention and the show has no 'boring bits'. I was intrigued the whole time watching it. So amazing, recommend to anyone! "; // Here goes the second review text.
+	$review2 = "This series combines a strong cast with good writing. Every episode is getting better as the series go on and I definitely think the latest episodes are better than the previous ones. The actor/actresses are superb and they will grow on you eventually."; // Here goes the second review text.
 
 
 	include 'template_header.php';

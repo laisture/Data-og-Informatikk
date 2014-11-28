@@ -22,7 +22,7 @@
 
 	$date2 = "25 Aug 2014"; // Here goes the date of the second review.
 
-	$stars2 = "1-stars.png"; // Here goes the image url for how many stars the user has given the tv-serie.
+	$stars2 = "2-stars.png"; // Here goes the image url for how many stars the user has given the tv-serie.
 
 	$altStars2 = "1 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
