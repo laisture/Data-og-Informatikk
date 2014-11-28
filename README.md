@@ -126,7 +126,7 @@ Comedy->
 - Pretty little liars    
 - Prison Break            
 - Peaky Blinders   *
-- Person of interest   *
+- Person of interest
 - Revenge  
 - Reign    *
 - Agents og S.H.I.E.L.D   *
