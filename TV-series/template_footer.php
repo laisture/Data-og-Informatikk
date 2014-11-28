@@ -3,8 +3,8 @@
 
 <footer>
 	<center>
-			
-		<p> This service is provided by TV SERIES. <br/>
+		<br/>	
+		<p>This service is provided by TV SERIES. <br/>
 			Serievegen 21, Oslo Norway. Tel: 0047 12345678</p>
 			
 		<p>Find us on social media:</p>

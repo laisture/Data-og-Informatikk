@@ -18,6 +18,14 @@
       </ul>
 	</nav>
   </header>
+  
+   <div class="title">
+  	 <div class="placeTitle">
+    <h1>
+    <p><?php echo $title?></p>
+    </h1>
+   </div>
+  </div>
 
   <!-- TOP RATED SHOWS -->
   <div class="additional-content">
@@ -46,16 +54,10 @@
 <!-- Tv show info -->
 <div class="main-content">
  <div class="placeMain-content">
-    <center>
-	  <h1>
-	  <p><?php echo $title?></p>
-	  </h1>
-    </center>
-
 	<div class="review">
 	<p class="text"> <b>Summary:</b> <br><?php echo $summary ?></p>
 	<br>
-        <label for="txtReview">Write your review here:</label><br/>
+        <label for="txtReview"><b>Write your review here:</b></label>
 	<textarea title="Write your review here" name="txtReview"
 	id="txtReview" rows="5" cols="40"
 	class="input" ></textarea><br>
