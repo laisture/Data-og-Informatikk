@@ -10,13 +10,13 @@
 	<nav> 
 	      
   	      <div class="logo">
-  			  <a href="Home.html"><img class="logo" src="Logo.jpg" width=28.6% alt="The logo of the website"></a>
+  			  <a href="Home.html"><img class="logo" src="Logo.jpg" alt="The logo of the website"></a>
   	      </div>
-    	 <ul id="menu">
-  	  <li><a href="Signup.html">Sign up</a></li>
-         <li><a href="Login.html">Log in</a></li>
-         <li class="last"><a href="AllSeries.html">All series</a></li>
-        </ul>
+            <ul id="menu">
+                <li><a href="Signup.html">Sign up</a></li>
+                <li><a href="Login.html">Log in</a></li>
+                <li class="last"><a href="AllSeries.html">All series</a></li>
+             </ul>
   	</nav>		
   </header>
   
@@ -48,13 +48,13 @@
   		<p>Find us on social media:</p>
 		
   		<div class="socialbox">	
-  			<a href="http://www.facebook.com"><img class="social" src="../TV-series/Facebook.jpg" width=4%></a>
+  			<a href="http://www.facebook.com"><img class="social" src="../TV-series/Facebook.jpg" ></a>
   		</div>
   		<div class="socialbox">
-  			<a href="http://www.twitter.com"><img class="social" src="../TV-series/Twitter.jpg" width=5%></a>
+  			<a href="http://www.twitter.com"><img class="social" src="../TV-series/Twitter.jpg" ></a>
   		</div>
   		<div class="socialbox">
-  			<a href="http://www.youtube.com"><img class="social" src="../TV-series/Youtube.jpg" width=15%></a>
+  			<a href="http://www.youtube.com"><img class="social" src="../TV-series/Youtube.jpg" ></a>
   		</div>
   	</center>
   </footer>
@@ -63,7 +63,7 @@
 	 	function validateForm2() {
 			var username = document.forms["input2"]["user"].value;
 			var password = document.forms["input2"]["pwd"].value;
-    		if (username != "" && password != "") {
+    		if (username !== "" && password !== "") {
 				alert ("You are now logged in!");
 			return true;
 			}
