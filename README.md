@@ -64,8 +64,8 @@ Comedy->
   (Work->)
   
   
-- American Horror Story       *
-- The Affair    *
+- American Horror Story       
+- The Affair    
 - Arrow           -
 - Boardwalk Empire     -
 - Breaking Bad        -
