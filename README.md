@@ -94,7 +94,7 @@ Comedy->
 - Gotham   *
 - Gossip Girl    
 - Game of Thrones   
-- Grey´s Anatomy    *
+- Grey´s Anatomy  
 - Good wife   *
 - Grimm   *
 - The Game * 
