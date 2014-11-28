@@ -1,0 +1,93 @@
+#main{
+	background-position: top center;
+	background-attachment: fixed;
+	/*margin-left: 10%;
+	margin-right: 10%;*/
+	width = 100%;
+	height: auto;
+	/*background-image: url("001.jpg")*/
+	/*border:10px solid black;*/	
+	/*padding:0;*/
+	text-align:center;
+		
+}
+
+body{
+	margin: 0%;
+	
+	background-color:#92CD00;
+	*/background-image: url('http://www.warrenphotographic.co.uk/photography/bigs/00476-Siamese-and-Rex-cats-play-fighting-white-background.jpg');*/
+}
+
+header{
+	display:inline-block;
+	background-color:#2C6700;
+	width: 100%;
+	border: solid 1px #2C6700 ;
+	margin-bottom: 1%;
+}
+
+nav a {
+  background-color:#2C6700;
+	font-family:Arial; 
+	color:#E5E4D7;
+	font-size: 2em;
+	display: inline-block;
+	padding: 5%;
+}
+
+nav a:link {
+	text-decoration: none;
+}
+
+nav a:hover {
+	border: solid 2px white;
+}
+
+.skrift{
+	font-family:Arial; color:#E5E4D7;
+	text-align:center;
+	
+}
+.skriftAlt{
+	font-family:Arial; color:#E5E4D7;
+	/*border: solid 2px black;*/
+	float:left;
+	padding:1%;
+	margin-left: 15.5%;
+	text-align:left;
+
+}
+
+
+.skriftAlt2{
+	display:inline-block;
+	/*border:2px solid black;*/
+	font-family:Arial; 
+	color:#E5E4D7;
+	padding:0;
+	/*margin-bottom:100px;*/
+	/*float:right;
+	margin-right 20%;*/
+}
+
+.pictureAlt{
+		margin-right: 10%;
+		padding:0;
+}
+
+.pictureAlt2{
+	text-align:center;
+}
+
+.me{
+	display:inline-block;
+	margin-left:16%;
+}
+
+.rating{
+	font-family:Arial; 
+	color:#E5E4D7;
+	
+}
+

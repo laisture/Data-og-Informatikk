@@ -67,20 +67,20 @@ Comedy->
 - American Horror Story       *
 - The Affair    *
 - Arrow           *-
-- Boardwalk Empire     -
-- Breaking Bad        -
+- Boardwalk Empire     *-
+- Breaking Bad        *-
 - The Blacklist       *-
-- The Big Bang Theory 
+- The Big Bang Theory *
 - Bones           *-
-- Burn Notice    -
+- Burn Notice    *-
 - Brothers ans Sisters   *
 - Criminal Minds    *-
 - Castle*-
 - CSI   *-
-- Chuck    
+- Chuck    *
 - Cougar town   *
 - Doctor who   *
-- Dexter   
+- Dexter   *
 - Dallas    *
 - Days of our lives  *
 - Elementary  *
@@ -88,12 +88,12 @@ Comedy->
 - Flash           *
 - Fargo   *-
 - Following   *
-- Family guy    
-- Friends 
+- Family guy    *
+- Friends *
 - Fringe   *
 - Gotham   *
-- Gossip Girl    
-- Game of Thrones   
+- Gossip Girl    *
+- Game of Thrones   *
 - Grey´s Anatomy    *
 - Good wife   *
 - Grimm   *
@@ -101,8 +101,8 @@ Comedy->
 - Hawaii five-o   *
 - Heart of dixie   *
 - Helix    *
-- House of Cards        
-- How i met your mother 
+- House of Cards        *
+- How i met your mother *
 - I´m with her  *
 - Inside   *
 - Judging Amy   *
@@ -110,20 +110,20 @@ Comedy->
 - Jury    *
 - The Killing  *
 - Knight rider  *
-- Lost        
+- Lost        *
 - Law & order *
 - Lost girl *
 - Modern family*
-- Mad men 
+- Mad men *
 - Mindy project *
 - NCIS            *
 - Nashville *
 - The Originals *
-- Orange is the new black 
+- Orange is the new black *
 - Once upon a time       *
-- One Tree hill         
+- One Tree hill         *
 - Office     *
-- Pretty little liars    
+- Pretty little liars    *
 - Prison Break            *
 - Peaky Blinders   *
 - Person of interest   *
@@ -137,11 +137,11 @@ Comedy->
 - Secret Life Of An American Teenager *
 - Secret Sircle  *
 - Tomorrow People   *
-- Two and a half men  
+- Two and a half men  *
 - Unforgettable  *
 - Ugly Betty         *
 - The Vampire Diaries  *
 - Vikings              *
 - Veronica Mars       *
-- The Walking Dead      
+- The Walking Dead      *
 - White collar         *

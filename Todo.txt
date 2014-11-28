@@ -1,0 +1,7 @@
+Fikse alle templates: template_header : oppdater til siste meny ligger på github
+
+Lage plain menu til plain php template
+Lage responsivt design: Nav-bar, evt allShows.php, home.php
+
+Nav-baren må ordnes slik at den e lik for alle sider. (CSS problem)
+Legge inn alle linker inn i nav-baren.

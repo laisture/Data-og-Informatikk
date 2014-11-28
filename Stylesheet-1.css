@@ -133,7 +133,7 @@ h4{
 
 .review{
 	float:right;
-	position:inline-block;
+	display:inline-block;
 	width:60%;
 }
 
@@ -166,9 +166,7 @@ h4{
 
 .placing{
 	margin-left:30px;
-	position:inline-block;
 	width:40%;
-	height-min:40px;
 }
 
 /*text input felt*/
@@ -277,7 +275,7 @@ textarea{
 	display:inline-block;
 }
 
-#top{
+.Top{
 	text-align:right;
 	margin-top:580px;
 	float:right;
@@ -287,7 +285,7 @@ textarea{
 	position:fixed;
 }
 
-#top a{
+.Top a{
     width: 100%;
     margin-top: 20px;
     padding: 13px 5px;
@@ -301,7 +299,7 @@ textarea{
 	background-color:#abb7d1;
 }
 
-#top a:hover{
+.Top a:hover{
 	background-color:#767a84;
 }
 
@@ -363,7 +361,7 @@ h5 {
 	line-height: 55px;
 }
 
-/*FOTTER*/
+/*FOOTER*/
 footer {
 	background-color: #000000;
 	clear: both;

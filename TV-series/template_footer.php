@@ -10,13 +10,13 @@
 		<p>Find us on social media:</p>
 		
 		<div class="socialbox">	
-			<a href="http://www.facebook.com"><img class="social" src="Facebook.jpg" width=4%></a>
+			<a href="http://www.facebook.com"><img class="social" src="Facebook.jpg" ></a>
 		</div>
 		<div class="socialbox">
-			<a href="http://www.twitter.com"><img class="social" src="twitter.jpg" width=5%></a>
+			<a href="http://www.twitter.com"><img class="social" src="Twitter.jpg" ></a>
 		</div>
 		<div class="socialbox">
-			<a href="http://www.youtube.com"><img class="social" src="Youtube.jpg" width=15%></a>
+			<a href="http://www.youtube.com"><img class="social" src="Youtube.jpg" ></a>
 		</div>
 		
 	</center>
