@@ -2,7 +2,7 @@
 
 	$title = "Friends"; // Here goes the title of the tv-serie.
 
-	$summary = "Following the lives of 6 young individuals during the prime of their lives."; // Here goes the summary of the tv-serie.
+	$summary = "Friends revolves around the lives of 6 young individuals during the prime of their lives."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Friends.jpg"; // Here goes the url for the poster of the tv-serie.
 

@@ -10,7 +10,7 @@
 
 	$name1 = "David,"; // Here goes the name of the the first person who wrote a review.
 
-	$date1 = "Dec 17 2008"; // Here goes the date of the first review.
+	$date1 = "November 10 2014"; // Here goes the date of the first review.
 
 	$stars1 = "5-stars.png"; // Here goes the image url for how many stars the user has given the tv-serie.
 
@@ -20,13 +20,13 @@
 
 	$name2 = "Mona Lisa,"; // Here goes the name of the the second person who wrote a review.
 
-	$date2 = "Oct 7 2006"; // Here goes the date of the second review.
+	$date2 = "Oct 7 2014"; // Here goes the date of the second review.
 
 	$stars2 = "2-stars.png"; // Here goes the image url for how many stars the user has given the tv-serie.
 
 	$altStars2 = "2 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "Dexter's mind is the fancy of the modern world and the writers morbid sense is displayed as a virtuoso.Murder and enjoyment of such things as entertainment is the highest example of America in decline. To enjoy perversity is to lose all human inhibitions. Watch Dexter and you will."; // Here goes the second review text.
+	$review2 = "Dexter is just one of those TV-shows I will never understand. I can't understand why people enjoy this TV-show so much, I gave up after the first 5 episodes."; // Here goes the second review text.
 
 
 	include 'template_header.php';

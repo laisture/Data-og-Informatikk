@@ -2,7 +2,7 @@
 
 	$title = "The Walking dead:"; // Here goes the title of the tv-serie.
 
-	$summary = "The Walking Dead is a fictional world where a disease that makes people to zombies has broken out. Following a group of people are still alive, the story follow their struggle to survive against zombies and other people that may threaten them"; // Here goes the summary of the tv-serie.
+	$summary = "The Walking Dead is a fictional world where a disease that makes people to zombies has broken out. Following a group of people that are still alive, the story follow their struggle to survive against zombies and other people that may threaten them"; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/WalkingDead.jpg"; // Here goes the url for the poster of the tv-serie.
 
