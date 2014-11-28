@@ -74,7 +74,7 @@ Comedy->
 - Bones           -
 - Burn Notice    -
 - Brothers ans Sisters   *
-- Criminal Minds    *-
+- Criminal Minds    -
 - Castle-
 - CSI   -
 - Chuck    
@@ -100,7 +100,7 @@ Comedy->
 - The Game * 
 - Hawaii five-o   
 - Heart of dixie   *
-- Helix    *
+- Helix    
 - House of Cards        
 - How i met your mother 
 - I´m with her  *
@@ -108,15 +108,15 @@ Comedy->
 - Judging Amy   *
 - Jessie   
 - Jury    *
-- The Killing  *
+- The Killing  
 - Knight rider  *
 - Lost        
 - Law & order *
-- Lost girl *
+- Lost girl 
 - Modern family
 - Mad men 
 - Mindy project *
-- NCIS            *
+- NCIS            
 - Nashville *
 - The Originals 
 - Orange is the new black 
