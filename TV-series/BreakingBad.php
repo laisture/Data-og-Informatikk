@@ -2,7 +2,7 @@
 
 	$title = "Breaking Bad"; // Here goes the title of the tv-serie.
 
-	$summary = "A high school chemistry teacher turns to a life of crime in order to provide for his family´s future."; // Here goes the summary of the tv-serie.
+	$summary = "Walter White is diagnosed with cancer, in fear of his family future, he turns to a life of crime to care for his family"; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/BreakingBad.jpg"; // Here goes the url for the poster of the tv-serie.
 

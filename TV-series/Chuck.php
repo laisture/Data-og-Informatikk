@@ -2,7 +2,7 @@
 
 	$title = "Chuck"; // Here goes the title of the tv-serie.
 
-	$summary = "When a twenty-something computer geek inadvertently downloads critical government secrets into his brain, CIA and NSA assign two agents to protect him and exploit such knowledge, turning his life upside down."; // Here goes the summary of the tv-serie.
+	$summary = "When a genius IT-guy get's mixed up in his fathers project, a super secret project get's downloaded into his mind. Without a way to remove it he get's babysitted by 2 agents in order to protect the secrets he now possess"; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Chuck.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "I Love this Show because it has some Computer grade hummor init and would be interesting if Humans could get a computer downloaded in to a person.I hope Morgan does continue with being the Intersect with CHUCK. being the Intersect along side each other..."; // Here goes the first review text.
+	$review1 = "This TV-serie is just out of the box funny, once I started watching the show I had trouble leaving it alone. The only complaint is that the show is way too long. They should have ended it a lot earlier than they did, except for that it's really good, a must watch!"; // Here goes the first review text.
 
 	$name2 = "Beate"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "2 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "I have been told this show is funny and entertaining. However, after only watching the first episode, I can tell it is a mindless, cliched, and predictable drama. When the episode began, I was interested and curious to find out what would happen, but after I saw all the sexist stereotyping of the Sarah character, I was instantly disappointed. Why the writers chose to create such an unlikeable character, I will never know, but knowing the show will probably revolve around a naked blond, I would rather watch anything else."; // Here goes the second review text.
+	$review2 = "Chuck is a joke, the humour is bad, the characters seem all over the place, I really didn't enjoy this show. I simply regret watching it at all and so I wouldn't recommend it to anyone"; // Here goes the second review text.
 
 
 	include 'template_header.php';

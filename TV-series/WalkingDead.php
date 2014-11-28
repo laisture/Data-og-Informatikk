@@ -1,8 +1,8 @@
 <?php
 
-	$title = "Walking dead:"; // Here goes the title of the tv-serie.
+	$title = "The Walking dead:"; // Here goes the title of the tv-serie.
 
-	$summary = "A terminally ill chemistry teacher teams with a former student to manufacture srystal meth to secure his family`s future."; // Here goes the summary of the tv-serie.
+	$summary = "The Walking Dead is a fictional world where a disease that makes people to zombies has broken out. Following a group of people are still alive, the story follow their struggle to survive against zombies and other people that may threaten them"; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/WalkingDead.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,9 +16,9 @@
 
 	$altStars1 = "3 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "It's a show which is meant to entertain & take people away from the realities of every day life. I love TWD and the cast, each season seems to get more and more intense. But season 2 is definitely a let down from 1. There needs to be more creepiness and zombie killing. This could easily be one of the best shows on TV if they'd just make it more creepy and add in some more action."; // Here goes the first review text.
+	$review1 = "The whole concept of Zombies really doesn't interest me. But I like the story of The Walking Dead anyway, It's hard to recommend, but if you like the concept of zombies I guess this is the ultimate series for you."; // Here goes the first review text.
 
-	$name2 = "An-L,"; // Here goes the name of the the second person who wrote a review.
+	$name2 = "An-Li,"; // Here goes the name of the the second person who wrote a review.
 
 	$date2 = "Sept 24 2014"; // Here goes the date of the second review.
 
@@ -26,9 +26,7 @@
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "
-This show is absolutely thrilling. It is definitely the best survival during a zombie Apocalypse i have ever seen or heard of. I love this show so much! It is definitely sensitive to some viewers, and i would not recommend it for young children it may give them nightmares. This show has one of the best story lines in all of TV. I don't know what i am going to do when they stop making the show, probably just watch them over and over again.
-"; // Here goes the second review text.
+	$review2 = "This show is so enjoyable, I loved every episode of it, zombies ftw! Recommended!!"; // Here goes the second review text.
 
 
 	include 'template_header.php';

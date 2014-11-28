@@ -2,7 +2,7 @@
 
 	$title = "Boardwalk Empire"; // Here goes the title of the tv-serie.
 
-	$summary = "An Atlantic City politician plays both sides of the law, conspiring with gangsters during the Prohibition era."; // Here goes the summary of the tv-serie.
+	$summary = "Nucky Thomson is Treasurer in Atlantic City, during the time of prohibition, Nucky and his associates exploit the prohibition by selling alcohol at a huge profit to the thirsty working class.  "; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/BoardwalkEmpire.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "2 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "OMG! This series is not good. I didn’t like the story or the characters. This is not interesting, they don´t even know how to act. Anyone else could have done this. It´s so many talents out there. Find them instead of using characters like this. I have just wasted my time by watching this bad series. I couldn´t watch more than a few episodes, but that was enough. Who would waste their time watching this?
+	$review1 = "OMG! This series is not good. I didn't like the story or the characters. This is not interesting, they don't even know how to act. Anyone else could have done this. It´s so many talents out there. Find them instead of using characters like this. I have just wasted my time by watching this bad series. I couldn´t watch more than a few episodes, but that was enough. Who would waste their time watching this?
 
 
 "; // Here goes the first review text.

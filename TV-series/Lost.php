@@ -2,7 +2,7 @@
 
 	$title = "Lost"; // Here goes the title of the tv-serie.
 
-	$summary = "The survivors of a plane crash are forced to live with each other on a remote island, a dangerous new world that poses unique threats of its own."; // Here goes the summary of the tv-serie.
+	$summary = "Survivors of a plane crash thrives to survive on a island, quickly the find out they are not alone."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Lost.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,8 +16,7 @@
 
 	$altStars1 = "5 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "Didn't even know too much about this show until my mom was watching the season 2 premiere! I eventually went back and watched season 1. I loved this show instantly! You definetly have to watch it from the beginning or you will be very confused. Season 1 usually focused on one character per episode so you can get a quick background on where they came from and why they are on the island which is important to know! There were a lot of characters on this show but you will love them! the acting is fantastic! My favorite character was Charlie by the way.
-After each episode, you always wanted to know more! it was so addicting! Definetly one of the greatest shows i ever watched! Highly recommended!"; // Here goes the first review text.
+	$review1 = "Lost is high quality TV, I enjoyed it from the first untill the very last season, surprisingly the story never get's boring and you will certainly be surprised multiple times during the series."; // Here goes the first review text.
 
 	$name2 = "Bobbie,"; // Here goes the name of the the second person who wrote a review.
 
@@ -27,8 +26,7 @@ After each episode, you always wanted to know more! it was so addicting! Definet
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "A show that can offer question after question with very few answers and still remain utterly engrossing is something special. The show has a huge cast, expanding as the show progresses, all of whom are very interesting due to the characters all being fleshed out through flashbacks. Mystery, intrigue, suspense, action, drama. The amalgamation of these ingredients make for one of the best shows ever made.
-The enjoyment of the show comes from the journey not the ending, and what a journey it is."; // Here goes the second review text.
+	$review2 = "I love Lost. It has everything, drama, survival, action, I'm sad it ended but, I guess it can't last forever. Recommended for anyone who really likes to be surprised"; // Here goes the second review text.
 
 
 	include 'template_header.php';

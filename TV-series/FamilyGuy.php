@@ -2,7 +2,7 @@
 
 	$title = "Family Guy"; // Here goes the title of the tv-serie.
 
-	$summary = "In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another."; // Here goes the summary of the tv-serie.
+	$summary = "A out of the ordinary family tries to overcome everyday life, as different challenges are thrown at them"; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/FamilyGuy.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "Honestly, this has to be one of the easiest reviews ever. The show is hilarious almost every single episode. The newer episodes I like more of course since the drawing and coloring of the characters and scenes has gotten better, but i still watch season 1 up till the present episodes. Love the show."; // Here goes the first review text.
+	$review1 = "This show is hilarious, every episode is different. The wacky humour is what makes this show great, some thing are on the edge, but I enjoy them none the less. Recommended for people can handle some edgy jokes."; // Here goes the first review text.
 
 	$name2 = "Amy"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "3 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "This show is a lot like Spongebob. It was good, but now it has gone way down hill. Almost all the characters are either not likable, suffer from the Seth Macfarlane effect (A character becoming unbelievably stupid), or just not interesting. Making Meg the punching bag is like what they do with squidward on Spongebob, its just not funny. Also the show is just not funny anymore, and I honestly think the show should just die. This show was funny, but it has over stayed its welcome."; // Here goes the second review text.
+	$review2 = "I watched the first season, and honestly I don't understand why people like so much. The show is okay, but not amazing, I probably won't watch more of this show, but maybe other people will enjoy it more. "; // Here goes the second review text.
 
 
 	include 'template_header.php';

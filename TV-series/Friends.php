@@ -2,7 +2,7 @@
 
 	$title = "Friends"; // Here goes the title of the tv-serie.
 
-	$summary = "Six young people, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life. "; // Here goes the summary of the tv-serie.
+	$summary = "Following the lives of 6 young individuals during the prime of their lives."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Friends.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "5 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "The show is the funniest comedy show I've ever seen. The perfect actors/actresses for there roles. The great plot lines and set. The fact that it lasted 10 years, means it must have been great. Don't hesitate to watch FRIENDS, just watch it, The best television show in the whole wide world. Watch Rachel, Monica, Phoebe, Joey, Chandler, and Ross lighten up your day. Sit back and get ready to laugh."; // Here goes the first review text.
+	$review1 = "This show is simply the best, it's a bit old but it's still funny, I enjoyed it from the start to the end. So I would recommend it to everyone!."; // Here goes the first review text.
 
 	$name2 = "Tiffanie,"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "2 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "First of all, it's somewhat boring and unrealistic. For instance, when the show first started I don't think any of them had any real high-paying jobs...I could be wrong. But if that's the case, how do several low-wage or no-wage people survive in a New York loft? Each episode was funny even though the setting was usually pretty much the same."; // Here goes the second review text.
+	$review2 = "Friends is a little bland for my taste, I just don't get why poeple think it's funny, because it isn't. I would not recommend it at all!."; // Here goes the second review text.
 
 
 

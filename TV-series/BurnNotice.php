@@ -2,7 +2,7 @@
 
 	$title = "Burn Notice"; // Here goes the title of the tv-serie.
 
-	$summary = "A spy recently disavowed by the U.S government uses his special ops training to help others in trouble."; // Here goes the summary of the tv-serie.
+	$summary = "A spy get's blackbusted out of the blue, without knowing why, he is determined to find out who did it. Meanwhile he uses his abilities to help family and friends with their problems."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/BurnNotice.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "5 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "The best show ever. For those who say that the stunts or inventions are fake or unbelievable: THEY ARE VERY POSSIBLE. This show is not Swordfish. I am very critic about other films that show impossible gadgets. 99% of the improvised gadgets, techniques are very realistic, and it is not me who says it, a SOF (Special Operation Forces) who was in intelligence confirmed me the plausibility of it, and that is the reason he loves it too."; // Here goes the first review text.
+	$review1 = "Burn Notice, oh my god I don't know where to begin. Three words: explosions, stunts and creativity. All the characters have deep personalities and they seem authentic. I personally will recommend this to anyone, it's just that good!!"; // Here goes the first review text.
 
 	$name2 = "Petter"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "In my opinion, the 2nd greatest USA original show behind Monk. People are complaining about, the characters, being perfect. But im sure most people would to when they spent more, than half of their life doing that proffesion."; // Here goes the second review text.
+	$review2 = "This show is amazing, I just love it. The main character is so handsome, the drama is never ending, all of action scenes are amazing. Perhaps 7 seasons is a little bit too long for most people, but if you have the time i absolutely have no problem recommending Burn Notice."; // Here goes the second review text.
 
 
 	include 'template_header.php';

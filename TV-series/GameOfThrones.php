@@ -2,7 +2,7 @@
 
 	$title = "Game of Thrones"; // Here goes the title of the tv-serie.
 
-	$summary = "Seven noble families fight for control of the mythical land of Westeros."; // Here goes the summary of the tv-serie.
+	$summary = "Placed in the mythical land of Westeros, various noble families tries to claim the iron throne in order to become the king of the seven kingdoms."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/GameOfThrones.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "5 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "Well I for once have not even looked at the books, heck I got to know about the books after I finished the first season and was hungry looking for more episodes. Sadly, the next episodes won't be coming anytime soon. Game of Thrones is a fascinating display of how power is distributed between rich houses, such as the Starks. In the series there will be drama, action, mystery, and I don't know what else. It has a touch of fiction of course, fantastic display of myths, creatures and original fantasy development. In short words, I like it."; // Here goes the first review text.
+	$review1 = "This show is the best, I can't wait for the new season to come out, I have GOT withrawal :( . There is a lot of action, drama and enough breasts to keep you entertained, a must watch!"; // Here goes the first review text.
 
 	$name2 = "Thor"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "Having not read the books, I was thoroughly surprised by the series and found myself enjoying it so far immensely. The show is good because the original author retains control, a "realistic" element runs strong and the backgrounds and extras are adequately fleshed out. Can't wait for more."; // Here goes the second review text.
+	$review2 = "I have read the books and I have to admit I'm surprised how well they made the TV-show. The only negative thing is I have to wait so long for the new season to come out!."; // Here goes the second review text.
 
 
 	include 'template_header.php';
