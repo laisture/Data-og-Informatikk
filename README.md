@@ -83,11 +83,11 @@ Comedy->
 - Dexter   
 - Dallas    *
 - Days of our lives  *
-- Elementary  *
+- Elementary  
 - Escape Club  
 - Flash           
 - Fargo   *-
-- Following   *
+- Following   
 - Family guy    
 - Friends 
 - Fringe   *
@@ -115,9 +115,9 @@ Comedy->
 - Lost girl 
 - Modern family
 - Mad men 
-- Mindy project *
+- Mindy project
 - NCIS            
-- Nashville *
+- Nashville 
 - The Originals 
 - Orange is the new black 
 - Once upon a time       
