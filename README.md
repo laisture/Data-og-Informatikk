@@ -66,26 +66,26 @@ Comedy->
   
 - American Horror Story       *
 - The Affair    *
-- Arrow           *-
+- Arrow           -
 - Boardwalk Empire     -
 - Breaking Bad        -
 - The Blacklist       *-
 - The Big Bang Theory 
-- Bones           *-
+- Bones           -
 - Burn Notice    -
 - Brothers ans Sisters   *
 - Criminal Minds    *-
-- Castle*-
-- CSI   *-
+- Castle-
+- CSI   -
 - Chuck    
 - Cougar town   *
-- Doctor who   *
+- Doctor who   
 - Dexter   
 - Dallas    *
 - Days of our lives  *
 - Elementary  *
-- Escape Club  *
-- Flash           *
+- Escape Club  
+- Flash           
 - Fargo   *-
 - Following   *
 - Family guy    
@@ -98,7 +98,7 @@ Comedy->
 - Good wife   *
 - Grimm   *
 - The Game * 
-- Hawaii five-o   *
+- Hawaii five-o   
 - Heart of dixie   *
 - Helix    *
 - House of Cards        
@@ -106,42 +106,42 @@ Comedy->
 - I´m with her  *
 - Inside   *
 - Judging Amy   *
-- Jessie   *
+- Jessie   
 - Jury    *
 - The Killing  *
 - Knight rider  *
 - Lost        
 - Law & order *
 - Lost girl *
-- Modern family*
+- Modern family
 - Mad men 
 - Mindy project *
 - NCIS            *
 - Nashville *
-- The Originals *
+- The Originals 
 - Orange is the new black 
-- Once upon a time       *
+- Once upon a time       
 - One Tree hill         
 - Office     *
 - Pretty little liars    
 - Prison Break            
 - Peaky Blinders   *
 - Person of interest   *
-- Revenge  *
+- Revenge  
 - Reign    *
 - Agents og S.H.I.E.L.D   *
 - Supernatural          *
-- Sex and the city     *
-- Scandal               *
+- Sex and the city     
+- Scandal               
 - Sleepy Hollow        *
 - Secret Life Of An American Teenager *
 - Secret Sircle  *
 - Tomorrow People   *
 - Two and a half men  
 - Unforgettable  *
-- Ugly Betty         *
-- The Vampire Diaries  *
+- Ugly Betty         
+- The Vampire Diaries  
 - Vikings              *
-- Veronica Mars       *
+- Veronica Mars       
 - The Walking Dead      
 - White collar         *
