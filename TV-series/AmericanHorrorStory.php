@@ -2,7 +2,7 @@
 
 	$title = "American Horror Story"; // Here goes the title of the tv-serie.
 
-	$summary = "An anthology series that centers on different characters and locations, including a haunted house, an insane asylum, a witch coven and a freak show."; // Here goes the summary of the tv-serie.
+	$summary = "A series that focus on different characters and locations. This anthology series include a haunted house, an insane asylum, a witch coven an a freak show. "; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/AmericanHorrorStory.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "3 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "After only watching the first episode, I can tell it is a mindless and predictable series. When the first episodes began, I was interested and curious to find out what would happen, but after a while I got disappointed. The first episodes is well written and nicely produced but it feels empty and plot driven. But if you really enjoy this genre you may want to give this series a chance."; // Here goes the first review text.
+	$review1 = "This series is just waste of time. Its getting boring, and the same things are happen again and again. I was so interested to watch it when the first episode was out, but I got disappointed. But if you like this kind of genre, please give it a chance. "; // Here goes the first review text.
 
 	$name2 = "Roger,"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "4 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "This series combines a strong cast with good writing. Every episode is getting better as the series go on and I definitely think the latest episodes are better than the previous ones. The actor/actresses are superb and they will grow on you eventually."; // Here goes the second review text.
+	$review2 = "After only watching the first episode, I will say it is a mindless and outstanding series. This series combines a strong cast with good writing. Its getting better and better by time. Today’s episode is better than the last week, and so it is going on."; // Here goes the second review text.
 
 
 	include 'template_header.php';
