@@ -2,7 +2,7 @@
 
 	$title = "Grey´s Anatomy"; // Here goes the title of the tv-serie.
 
-	$summary = "A drama centeres on the personal and professional lives of five surgical interns and their supervisors."; // Here goes the summary of the tv-serie.
+	$summary = "A drama of five surgical interns and their supervisors."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/GreysAnatomy.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "5 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "Great show. Makes me laugh and cry each episode. The story line always leaves me shocked and curious. Can't wait till the finale to see how it all ends for this season. You go Shonda Rhimes and the rest of the crew. I love you all, continue your great work! "; // Here goes the first review text.
+	$review1 = "This series is just so amazing! Cant wait till the final to see how it all ends for this season. In every episode it is something new and fantastic."; // Here goes the first review text.
 
 	$name2 = "Henrik"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "4 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "The show has had potential from its beginning and has shown an admireable ability to quickly develop complex characters. Sandra Oh's playing of Yang brings a very funny atmosphere to the team with her twisted sense of humour and innapropriate behaviour. The complicated relationship between Derek and Meredith can be fun, but also annoying at times."; // Here goes the second review text.
+	$review2 = "This series combines a strong cast with good writing. Every episode is getting better as the series go on and I definitely think the latest episodes are better than the previous ones. The actor/actresses are superb and they will grow on you eventually."; // Here goes the second review text.
 
 
 	include 'template_header.php';
