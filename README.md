@@ -91,7 +91,7 @@ Comedy->
 - Family guy    
 - Friends 
 - Fringe   
-- Gotham   *
+- Gotham   
 - Gossip Girl    
 - Game of Thrones   
 - Grey´s Anatomy  
