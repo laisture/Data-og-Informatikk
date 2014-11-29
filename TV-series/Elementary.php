@@ -2,7 +2,7 @@
 
 	$title = "Elementary"; // Here goes the title of the tv-serie.
 
-	$summary = "A modern take on the cases of Sherlock Holmes, with the detective now living in New York City."; // Here goes the summary of the tv-serie.
+	$summary = "Elementary is a modern tak eon the cases of Sherlock Holmes. He is with the detective now living in New York City. "; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Elementary.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,9 +16,7 @@
 
 	$altStars1 = "5 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "I was a little worried when I first started watching because it is based off Sherlock Holmes and I didn't want to sit through a show that simply revisits the cases from the books. That being said, I love it. Miller is fantastic as Holmes and Liu is a wonderful lead actress who compliments the Holmes character well as Watson. The stories are enjoyable but a little bit predictable but still entertaining to watch.
-
-I'd recommend it, It's a pretty good show and I don't see how people can hate it let alone give it a negative review."; // Here goes the first review text.
+	$review1 = "I was worried when i started to watch this series because it is based off Sherlock Holmes. The stories are enjoyable but a little bit predictable but still entertaining to watch. I will recommend this series to everyne, it is worth using your time to watch this. "; // Here goes the first review text.
 
 	$name2 = "Edvardsen"; // Here goes the name of the the second person who wrote a review.
 
@@ -28,9 +26,7 @@ I'd recommend it, It's a pretty good show and I don't see how people can hate it
 
 	$altStars2 = "2 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "There is nothing about yhis show that is redeeming. A steaming pile of crap that like a lot of american tv, tries to be successful by copying someone elses ideas. Please stop producing this shit or if you do, please dont export it to australia. Why? Why bother?
-
-This new sherlock is like a sex deprived loser who spouts nonsensical verbal diareah. Whats next? Winnie the pooh reimagined as a crack dealer who bums tigger in a gimp suit.... stop making this crap."; // Here goes the second review text.
+	$review2 = "There is nothing to say about this show. Its waste of time. I am so sad after watchin this. I could have done something better than using my time on this. I hope this series will og very bad, and no one watch it."; // Here goes the second review text.
 
 
 	include 'template_header.php';
