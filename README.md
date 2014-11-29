@@ -90,7 +90,7 @@ Comedy->
 - Following   
 - Family guy    
 - Friends 
-- Fringe   *
+- Fringe   
 - Gotham   *
 - Gossip Girl    
 - Game of Thrones   
