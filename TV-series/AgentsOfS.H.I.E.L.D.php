@@ -2,7 +2,7 @@
 
 	$title = "Agents of S.H.I.E.L.D"; // Here goes the title of the tv-serie.
 
-	$summary = "After helping to thwart Hydra, Agent Phil Coulson was appointed as Director and tasked with rebuilding the agency. By his side are Agent Melinda May, expert pilot, martial artist and longtime friend, and computer hacker Skye, now a full-fledged S.H.I.E.L.D. agent. Agent Leo Fitz, brilliant engineer, and Agent Jemma Simmons, genius bio-chemist, are dealing with the impacts of their near-death experience at the hands of Grant Ward, a highly trained agent in combat and espionage, who was found to be a Hydra mole. Also joining Coulson's core team is Lance Hunter, a dashing mercenary sharp shooter with a quick wit."; // Here goes the summary of the tv-serie.
+	$summary = "After the Battle of New York, the world has changed.Agent Phil Coulson was appointed as Director and tasked with rebuilding the agency. His partners are Agent Melinda May, expert pilot, martial artist and longtime friend, and computer hacker Skye. Also joining Coulson's core team is Lance Hunter, a dashing mercenary sharp shooter with a quick wit."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/AgentsOfS.H.I.E.L.D.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "2 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "OMG! This series is very very bad. I didn’t like the story or the characters. This is not interesting, they don´t even know how to act. It´s so painful. Anyone else could have done this. It´s so many talents out there. Find them instead of using characters like this. I have just wasted my time by watching this bad series. I couldn´t watch more than a few episodes, but that was enough. Who would waste their time watching this?"; // Here goes the second review text.
+	$review2 = "OMG! This series is very very bad. I didn’t like the story or the characters. This is not interesting, they don´t even know how to act. It´s so painful. Anyone else could have done this. It´s so many talents out there. Find them instead of using characters like this. I have just wasted my time by watching this bad series. I couldn´t watch more than a few episodes, but that was enough. "; // Here goes the second review text.
 
 
 	include 'template_header.php';
