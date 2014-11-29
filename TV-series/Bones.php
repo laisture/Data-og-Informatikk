@@ -2,7 +2,7 @@
 
 	$title = "Bones"; // Here goes the title of the tv-serie.
 
-	$summary = "A forensic anthropologist teams up with an FBI agent to investigate crimes that have left scant evidence behind: namely, the bones of the deseased."; // Here goes the summary of the tv-serie.
+	$summary = "A forensic anthropologist and an FBI agent teams up to investigate crimes. And often the evidence they have left is, the bones of the deseased."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Bones.jpg"; // Here goes the url for the poster of the tv-serie.
 

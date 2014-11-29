@@ -2,7 +2,7 @@
 
 	$title = "Arrow"; // Here goes the title of the tv-serie.
 
-	$summary = "Base don DC Comics Green Arrow an affluent playboy becomes a vengeful superhero, saving the city from villains armed with just a bow and arrows."; // Here goes the summary of the tv-serie.
+	$summary = "Oliver Queen eventualy returns home after five years on an uncharted island. He learned how to survive and now he is returning to Starling City. He is determined to clean up and saving the city from villains armed with just a bow and arrows."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Arrow.jpg"; // Here goes the url for the poster of the tv-serie.
 

@@ -2,7 +2,7 @@
 
 	$title = "Castle"; // Here goes the title of the tv-serie.
 
-	$summary = "After a serial killer imitates the plots of his novels, successful mystery novelist Richard Rick Castle gets permission from the Mayor of New York City to tag along with NYPD homicide investigation team for research purposes."; // Here goes the summary of the tv-serie.
+	$summary = " A successful mystery novelist named Richard Rick Castle gets permission from the Mayor of New York City to work along with the NYPD team. He joins forces with Detective Kate Beckett and they begin working together to solve other murders in New York City"; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Castle.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "The show follows Richard Castle a hugely successful mystery writer with a wild and childish streak who is partnered with a no-nonsense cop Kate Beckett as research for his latest set of novels. As such the duo solve crimes in NYC while Beckett tries to keep Castle under control. This show is great. It has some great characters which have real chemistry between them. I only hope that this quality is kept up throughout the series and that the show stays on our screens. If you like NCIS, Bones etc then this is right up your street."; // Here goes the first review text.
+	$review1 = "This series is great. It has great characters with real chemistry between them. I really hope that the rest of the episodes will stay as good. If you are a fan of other series like NCIS or Bones then I definitely recommend Castle."; // Here goes the first review text.
 
 	$name2 = "Max,"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "4 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "Finally we have a crime show which is light hearted and actually has a good sense of humour! after watching one episode you can tell, castle is a show that doesn't take itself too seriously. perfect for those who cant stand the typical melodramatic crime shows! where other tv series neglect the cases and focus to heavily on character relationships, castle has the perfect balance between the two. cases don't take the back seat as they are engaging and original week in, week out. the dynamic between castle and beckett is one of the best on tv, the banter they share always offers some good laughs. with Bones the 'will they won't they' aspect is repeatedly thrown in your face to the extent where it gets irritating, however with castle its much more subtle with the odd hint every now and then which actually adds more suspense and intensity. nathan fillion and stana katic have amazing chemistry that perfectly sells the whole thing."; // Here goes the second review text.
+	$review2 = " really love this show! This series has a lot of mystery and suspense and actually has a good sense of humour. This series is perfect for those who cant stand the typical melodramatic crime shows."; // Here goes the second review text.
 
 
 	include 'template_header.php';

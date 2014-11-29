@@ -2,7 +2,7 @@
 
 	$title = "Scandal"; // Here goes the title of the tv-serie.
 
-	$summary = "A former White House Communications Director starts her own crisis management firm only to realize her clients are not the only ones with secrets."; // Here goes the summary of the tv-serie.
+	$summary = "Olivia Pope is a forme former White House Communications Director. She starts her own crisis management firm and has decided to dedicate her life to protecting the public images of the nation's elite. But soon enough she realizes her clients are not the only ones with secrets."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Scandal.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "This is my newest obsession. I honestly don't know why it took me so long to start watching this brilliant show. Shonda Rhimes outdone herself with this. I mean it! As I have already told you, I'm not big on romance, but I truly believe it has one of the most exciting, intriguing, stimulating love story of all the shows I'm watched or have watched in the past. Apart from that, every episode is getting your suspense to the point of climax and not letting you finish because you need to see the next oneand the next oneand then you get addicted like me, and start writing blog posts about it like a complete lunatic."; // Here goes the first review text.
+	$review1 = "This is my newest obsession. It has one of the most exciting, intriguing, love story of all the shows I have watched. Apart from that, this series combines a strong cast with good writing. Every episode is getting better as the series go on and I definitely think the latest episodes are better than the previous ones. The actor/actresses are superb and they will grow on you eventually."; // Here goes the first review text.
 
 	$name2 = "Arden,"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "2 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "The characters are not interesting. The stories are predictable. There is not enough good drama I believe. I just could not sit through more than two episodes. It is just similar to a show like Dallas with soap opera elements to me which has been overdone for 50 years on television. It takes place in the White House in You tell me, okay so what! It could have the actual President on the show and still be the overrated, hot garbage that it is. I don't like shows that just focus on affairs and stupid personal crap without much actual interesting information. Who would waste an hour watching this? Big waste of time and highly "; // Here goes the second review text.
+	$review2 = "The characters are not interesting and the stories are very predictable. I dont think it's enough drama. I have just wasted my time by watching this bad series. I couldn´t watch more than a few episodes, but that was enough."; // Here goes the second review text.
 
 
 	include 'template_header.php';
