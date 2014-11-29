@@ -112,11 +112,11 @@ Comedy->
 - Knight rider  *
 - Lost        
 - Law & order *
-- Lost girl 
+- Lost girl  *
 - Modern family
 - Mad men 
 - Mindy project
-- NCIS            
+- NCIS           * 
 - Nashville 
 - The Originals 
 - Orange is the new black 
