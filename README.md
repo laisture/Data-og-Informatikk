@@ -95,7 +95,7 @@ Comedy->
 - Gossip Girl    
 - Game of Thrones   
 - Grey´s Anatomy  
-- Good wife   *
+- Good wife   
 - Grimm   
 - The Game * 
 - Hawaii five-o   
