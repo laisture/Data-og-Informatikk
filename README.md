@@ -109,7 +109,7 @@ Comedy->
 - Jessie   
 - Jury    
 - The Killing  
-- Knight rider  *
+- Knight rider  
 - Lost        
 - Law & order *
 - Lost girl  
