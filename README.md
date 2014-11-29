@@ -107,12 +107,12 @@ Comedy->
 - Inside   *
 - Judging Amy   *
 - Jessie   
-- Jury    *
+- Jury    
 - The Killing  
 - Knight rider  *
 - Lost        
 - Law & order *
-- Lost girl  *
+- Lost girl  
 - Modern family
 - Mad men 
 - Mindy project
@@ -128,7 +128,7 @@ Comedy->
 - Peaky Blinders   *
 - Person of interest
 - Revenge  
-- Reign    *
+- Reign    
 - Agents og S.H.I.E.L.D   
 - Supernatural          
 - Sex and the city     
