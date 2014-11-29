@@ -2,7 +2,7 @@
 
 	$title = " Lost girl"; // Here goes the title of the tv-serie.
 
-	$summary = "Lost Girl focuses on the gorgeous and charismatic Bo, a supernatural being called a succubus who feeds on the energy of humans, sometimes with fatal results. Refusing to embrace her supernatural clan system and its rigid hierarchy, Bo is a renegade who takes up the fight for the underdog while searching for the truth about her own mysterious origins."; // Here goes the summary of the tv-serie.
+	$summary = "Lost Girl focuses on Bo who is a supernatural being called Succubus. She grew up in an adopted human family not aware of her supernatural nature. Refusing to embrace the supernatural, she takes up the fight for the underdog while searching for the truth about her own mysterious origins."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/LostGirl.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,8 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "They've done the impossible with this show.... They've taken the "mixed supernatural society" concept, added in an element of straight up sex, and added a great story line. It's passion and action all in one! A must watch for husbands and wives together as a warm up for foreplay.
-Love the characters, especially their onscreen chemistry."; // Here goes the first review text.
+	$review1 = "This series combines a strong cast with good writing. Every episode is getting better as the series go on and I definitely think the latest episodes are better than the previous ones. The actor/actresses are superb and they will grow on you eventually."; // Here goes the first review text.
 
 	$name2 = "Shanta,"; // Here goes the name of the the second person who wrote a review.
 
@@ -27,7 +26,7 @@ Love the characters, especially their onscreen chemistry."; // Here goes the fir
 
 	$altStars2 = "3 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "season 4 wasn't the greatest. Rushed, and not well thought out. So many unexplained things happened. I really hope that season 5 improves and also that Kenzi will be there for it. I absolutely adore her and I don't know if I'd be able to continue to watch without her. Bo is good but the Duo is really what made this show spark for me. I await season 5 in 2015."; // Here goes the second review text.
+	$review2 = "After only watching the first episode, I can tell it is a mindless and predictable series. When the first episodes began, I was interested and curious to find out what would happen, but after a while I got disappointed. The first episodes is well written and nicely produced but it feels empty and plot driven. But if you really enjoy this genre you may want to give this series a chance."; // Here goes the second review text.
 
 
 	include 'template_header.php';
