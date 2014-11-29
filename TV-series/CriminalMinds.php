@@ -2,7 +2,7 @@
 
 	$title = "Criminal Minds"; // Here goes the title of the tv-serie.
 
-	$summary = "The cases of the BAU an elite group of profilers that analyze the nation´s most dangerous criminal minds in an effort to anticipate their next moves before they strike again."; // Here goes the summary of the tv-serie.
+	$summary = "The cases of an elite groupof profilers that analyze the nation´s most dangerous criminal minds. "; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/CriminalMinds.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "Not since Law and Order has a show been this intelligent and well presented. The actors are absolutely awesome, The stories are captivating and the characters excellently written. This show has renewed my faith on television. CONGRATULATIONS"; // Here goes the first review text.
+	$review1 = "After NCIS this is my second favorite tv-series. I like series where its kind of different stories in every episode. Itmakes it easier to watch the series, even if i forgot to wat an episode. "; // Here goes the first review text.
 
 	$name2 = "Kristin"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "2 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "Such ignorantly manufactured socialist junk should be deceased straight to the trash bin and forgotten. Watching this propatainment should be a crime, and, indeed, is so, morally and intellectually."; // Here goes the second review text.
+	$review2 = "OMG! This series is very bad. I didn’t like the story or the characters. This is not interesting, they don’t even know hoe to act. Who would waste your time watching this?"; // Here goes the second review text.
 
 
 	include 'template_header.php';
