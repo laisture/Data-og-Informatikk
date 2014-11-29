@@ -130,10 +130,10 @@ Comedy->
 - Revenge  
 - Reign    *
 - Agents og S.H.I.E.L.D   *
-- Supernatural          *
+- Supernatural          
 - Sex and the city     
 - Scandal               
-- Sleepy Hollow        *
+- Sleepy Hollow        
 - Secret Life Of An American Teenager *
 - Secret Sircle  
 - Tomorrow People   
