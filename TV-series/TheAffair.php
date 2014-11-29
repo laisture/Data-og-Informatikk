@@ -2,7 +2,7 @@
 
 	$title = "The Affair"; // Here goes the title of the tv-serie.
 
-	$summary = "The psychological effects of an affair between a married waitress at a Hamptons diner and a teacher who spends his summer at his in-laws´ estate on the island."; // Here goes the summary of the tv-serie.
+	$summary = "An affair between a married waitress and a teacher who spends his summer on the island. The series is mostly about the psychological effects in the affair. "; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/TheAffair.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "The Affair puts the truth on trial: the central dynamic between Alison and Noah doesn't seem forced, great writing and acting make for a strong first three showings, but what makes the show so engrossing is the idea that the differing perspectives of the two leads reveal the difficulty of determining the objective truth of something."; // Here goes the first review text.
+	$review1 = "This series is about two different site of the same story. The central dynamic between Alison and Noah doesn’t seem forced. It’s a very great writing and acting in this series. I love this series, and will say it is worth watching it. "; // Here goes the first review text.
 
 	$name2 = "Lise,"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "A show recounting two sides of the same story, realistically different depending on who tells it. At a glance, you can tell there is the backbone for a compelling - even if slightly disturbing - season. We don't yet see the affair proper, but we already know it's bound to lead to some heavy consequences."; // Here goes the second review text.
+	$review2 = "What I really love about this series is that you never really get tired of it. The path and transformation that the characters go into is shown absolutely amazing. This show has one of the best story lines in all of TV. I have never seen a poorly written or produced episode at all. The series is original and in my opinion it is flawless. The amazing casting makes this series a success and I will definitely keep watching this show for as long as it stays on"; // Here goes the second review text.
 
 
 	include 'template_header.php';
