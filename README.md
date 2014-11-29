@@ -78,10 +78,10 @@ Comedy->
 - Castle-
 - CSI   -
 - Chuck    
-- Cougar town   *
+- Cougar town   
 - Doctor who   
 - Dexter   
-- Dallas    *
+- Dallas    
 - Days of our lives  *
 - Elementary  
 - Escape Club  
