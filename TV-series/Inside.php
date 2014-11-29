@@ -2,7 +2,7 @@
 
 	$title = "Inside"; // Here goes the title of the tv-serie.
 
-	$summary = "In this psychological thriller, rookie FBI Agent Rebecca Locke joins the Bureau's Los Angeles Violent Crimes Unit, unaware that she's been hand-picked for the dangerous job by its imposing leader, Supervisory Special Agent Virgil Web Webster. Web is among the few who know that Rebecca was abducted and held captive as a young girl, a traumatic experience that affords her a unique insight into the mindset of villain and victim alike."; // Here goes the summary of the tv-serie.
+	$summary = "FBI Agent Rebecca joins Los Angeles Violent Crimes Unit, unaware that she's been hand-picked for the dangerous job by its imposing leader."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Inside.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,8 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "It was nice to find a show that didn't tiptoe around Trauma and while relatively uncommon, showed things that occur in our country and world. Every serial killer lives next to someone....
-I loved the show and it was paradoxically a breath of fresh air releasing many taboo things that occur and especially as shown through the main character that has been traumatized by similar abuses. Something that shows the truth, although through ficticious characters and events, shouldn't be kept quiet any longer. "; // Here goes the first review text.
+	$review1 = "This series combines a strong cast with good writing. Every episode is getting better as the series go on and I definitely think the latest episodes are better than the previous ones. The actor/actresses are superb and they will grow on you eventually."; // Here goes the first review text.
 
 	$name2 = "Lin-B"; // Here goes the name of the the second person who wrote a review.
 
@@ -27,11 +26,7 @@ I loved the show and it was paradoxically a breath of fresh air releasing many t
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = " watch a lot of shows, but only a few I consider really good and my favorites too. This was one of them.
-Some people say it was a little dark, but I liked it this way.
-I loved the characters and I think the cases were pretty good.
-This wasn't all dark, we got our funny moments once is a while, specially with Danny and Melody.
-There might be people there that don't share my opinion, but I always thought that Rebecca and Paul could've been a cute couple. "; // Here goes the second review text.
+	$review2 = "What I really love about this series is that you never really get tired of it. The path and transformation that the characters go into is shown absolutely amazing. This show has one of the best story lines in all of TV. I have never seen a poorly written or produced episode at all. The series is original and in my opinion it is flawless. The amazing casting makes this series a success and I will definitely keep watching this show for as long as it stays on. "; // Here goes the second review text.
 
 
 	include 'template_header.php';
