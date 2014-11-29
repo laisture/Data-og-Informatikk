@@ -104,7 +104,7 @@ Comedy->
 - House of Cards        
 - How i met your mother 
 - I´m with her  
-- Inside   *
+- Inside   
 - Judging Amy   *
 - Jessie   
 - Jury    
