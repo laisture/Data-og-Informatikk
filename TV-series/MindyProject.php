@@ -2,7 +2,7 @@
 
 	$title = "The Mindy Project"; // Here goes the title of the tv-serie.
 
-	$summary = "A young Ob/Gyn doctor balances her personal and professional life, surrounded by quirky co-workers in a small office.	"; // Here goes the summary of the tv-serie.
+	$summary = "A young doctor balances her personal and professional life. She is surrounded by co-workers in a small office. "; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/MindyProject.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,8 +16,7 @@
 
 	$altStars1 = "3 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "The Mindy Project, just like its main character, it's not without flaws. The characters are sometimes over the top, the situations occasionally unbelievable and some plots seem to serve only as a device for Mindy Kaling to pretend date a bunch of really hot men. However when the show is good, it's just really great. I love the chemistry between Mindy and Danny and the Christmas party episode made me root for them as a couple almost as much as I did for Nick and Jess mid second season of New Girl.
-And from time to time we get served real gems like Chis Messina doing the Try Again dance routine (one of the funniest tv moments of 2013) that make me want to watch more and more."; // Here goes the first review text.
+	$review1 = "The Mindy Project, just like its main character, its not without flaws.This series is just waste of time. Its getting boring, and the same things are happen again and again. I was so interested to watch it when the first episode was out, but I got disappointed. "; // Here goes the first review text.
 
 	$name2 = "Kayce,"; // Here goes the name of the the second person who wrote a review.
 
@@ -27,8 +26,7 @@ And from time to time we get served real gems like Chis Messina doing the Try Ag
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "I am officially in love!!! This show is absolutely hilarious and refreshing! I dont understand why this site continues to dump on it but give New Girl great compliments. But whatever, that why I love coming to this page just to read the great comments left by other fans of the show. I may be getting ahead of myself, but I truly hope they get picked up for another season, if not 2 more! :)
-Also, if you are as much of a fan of the character Morgan, I would suggest checking out The Morgan Project on youtube! You will not be sorry :)"; // Here goes the second review text.
+	$review2 = "I am officially in love! This show is just so worth watching. By the way, I just love coming to this page just to read great comments left by other fans of the series. Also if you are a fan of Morgan, check out Morgan project on Youtube. You will be thinking why you didn’t watch this before :)"; // Here goes the second review text.
 
 
 	include 'template_header.php';
