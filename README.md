@@ -129,12 +129,12 @@ Comedy->
 - Person of interest
 - Revenge  
 - Reign    *
-- Agents og S.H.I.E.L.D   *
+- Agents og S.H.I.E.L.D   
 - Supernatural          
 - Sex and the city     
 - Scandal               
 - Sleepy Hollow        
-- Secret Life Of An American Teenager *
+- Secret Life Of An American Teenager 
 - Secret Sircle  
 - Tomorrow People   
 - Two and a half men  
