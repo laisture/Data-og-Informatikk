@@ -2,7 +2,7 @@
 
 	$title = "Brothers And Sisters"; // Here goes the title of the tv-serie.
 
-	$summary = "The story of the dama surrounding a family´s adult siblings."; // Here goes the summary of the tv-serie.
+	$summary = "A drama of a family´s adult siblings. "; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/BrothersAndSisters.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "An amazing drama, from the kind we don't have any more on TV. A great acting from all the cast and well scripted show. I cant wait for the next episode, especially now that Justin and Rebbecca are together."; // Here goes the first review text.
+	$review1 = "This series combines a strong cast with good writing. Every episode is getting better as the series go on and I definitely think the latest episodes are better than the previous ones. The actor/actresses are superb and they will grow on you eventually."; // Here goes the first review text.
 
 	$name2 = "Halfdan"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "I am absolutely in love with this show. The Walker family is one to watch, see how they grow and love each other through everything. Witty, emotional, and real."; // Here goes the second review text.
+	$review2 = "What I really love about this series is that you never really get tired of it. The path and transformation that the characters go into is shown absolutely amazing. This show has one of the best story lines in all of TV. I have never seen a poorly written or produced episode at all. The series is original and in my opinion it is flawless. The amazing casting makes this series a success and I will definitely keep watching this show for as long as it stays on."; // Here goes the second review text.
 
 
 	include 'template_header.php';
