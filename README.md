@@ -97,7 +97,7 @@ Comedy->
 - Grey´s Anatomy  
 - Good wife   
 - Grimm   
-- The Game * 
+- The Game  
 - Hawaii five-o   
 - Heart of dixie   *
 - Helix    
