@@ -105,7 +105,7 @@ Comedy->
 - How i met your mother 
 - I´m with her  
 - Inside   
-- Judging Amy   *
+- Judging Amy   
 - Jessie   
 - Jury    
 - The Killing  
