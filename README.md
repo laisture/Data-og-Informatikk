@@ -86,7 +86,7 @@ Comedy->
 - Elementary  
 - Escape Club  
 - Flash           
-- Fargo   *-
+- Fargo   -
 - Following   
 - Family guy    
 - Friends 
@@ -96,7 +96,7 @@ Comedy->
 - Game of Thrones   
 - Grey´s Anatomy  
 - Good wife   *
-- Grimm   *
+- Grimm   
 - The Game * 
 - Hawaii five-o   
 - Heart of dixie   *
