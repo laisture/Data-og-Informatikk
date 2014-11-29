@@ -2,7 +2,7 @@
 
 	$title = "Gotham"; // Here goes the title of the tv-serie.
 
-	$summary = "The story behind Commissioner James Gordon's rise to prominence in Gotham City in the years before Batman's arrival."; // Here goes the summary of the tv-serie.
+	$summary = "The story in Gotham City in the years before Batman's arrival."; // Here goes the summary of the tv-serie.
 
 	$poster = "../Pictures/Gotham.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "5 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "The writers and crews who work on the pilot for Gotham must be a genius. The production is next to flawless and it clearly shows how huge the show can be (only if it keeps on taking the right direction) and the tremendous potential the characters and stories in the Batman/DC universe carry. Definitely a game-changer for Fox. Who needs originality when you have authenticity blended with vision!"; // Here goes the first review text.
+	$review1 = "What I really love about this series is that you never really get tired of it. The path and transformation that the characters go into is shown absolutely amazing. This show has one of the best story lines in all of TV. I have never seen a poorly written or produced episode at all. The series is original and in my opinion it is flawless. The amazing casting makes this series a success and I will definitely keep watching this show for as long as it stays on."; // Here goes the first review text.
 
 	$name2 = "Martin"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "3 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "This show disgusts me. I knew it would be bad but how bad I could not fathom. It has no redeeming features and I really feel bad for people that made it and watch it. I could barely stomach the first episode and couldn't wait for it to be over. I have since seen two other scenes and put it up there with the worst shows on tv, The acting is bad but the writing is unforgivable. "; // Here goes the second review text.
+	$review2 = "After only watching the first episode, I can tell it is a mindless and predictable series. When the first episodes began, I was interested and curious to find out what would happen, but after a while I got disappointed. The first episodes is well written and nicely produced but it feels empty and plot driven. But if you really enjoy this genre you may want to give this series a chance."; // Here goes the second review text.
 
 
 	include 'template_header.php';
