@@ -2,7 +2,7 @@
 
 	$title = "Supernatural"; // Here goes the title of the tv-serie.
 
-	$summary = "Two brothers follow their father's footsteps as hunters fighting evil supernatural beings of many kinds including monsters, demons, and gods that roam the earth.	"; // Here goes the summary of the tv-serie.
+	$summary = "Two brothers follow their missing father's footsteps as hunters. They travel the country looking for him fighting evil supernatural beings including monsters, demons, and gods."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Supernatural.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "5 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "Supernatural is undoubtedly one of the greatest sci-fi series to ever hit our TV screens. The story of two brothers, Sam and Dean Winchester, who grew up in a supernatural family really captivates the minds of the supernatural 'things that go bulb in the night' fanatics. The relationship that the brothers share embodies the idea of brotherhood and family bonds. The story amazingly brings to life the different myths, urban legends and freaky stories that have developed over the generations in different cultures. I personally am tremendously interested in the different archetypes that is illustrated through the characters and that unfold in the story . the archetypes that stood out for me was the doppelganger, the mentor, the idea of good vs evil and most importantly, the mythology. I adore the series and I admire the relationship that the Winchester brothers share. I'm also obsessed with Greek mythology and urban legends, which for me, makes it one of the best sci-fi series ever!"; // Here goes the first review text.
+	$review1 = "Supernatural is one of the greatest sci-fi series to ever hit our TV screens. The story brings to life the different myths and urban legends stories. What I really love this series is that you never really get tired of it. The path and transformation that the characters go into is shown absolutely amazing. This show has one of the best story lines in all of TV. I have never seen a poorly written or produced episode at all. The series is original and in my opinion it is flawless. The amazing casting makes this series a success and I will definitely keep watching this show for as long as it stays on."; // Here goes the first review text.
 
 	$name2 = "Gil,"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "After 9 Seasons: still the best show, best story, best actors, best humor, awsome music accompaniment. Absolutely brilliant. Dean / Jensen Ackles - there is just one word: perfect! Pain, doubt, loyalty, development - no one is as believable as Jenson Ackles. He does what it takes. ;)"; // Here goes the second review text.
+	$review2 = "After 9 Seasons: still the best show! I adore the series and I love the relationship that the Winchester brothers share. One of the best sci-fi series ever!"; // Here goes the second review text.
 
 
 	include 'template_header.php';
