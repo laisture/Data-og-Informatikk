@@ -2,7 +2,7 @@
 
 	$title = "Law & order"; // Here goes the title of the tv-serie.
 
-	$summary = "The show follows a crime, ususally adapted from current headlines, from two separate vantage points. The first half of the show concentrates on the investigation of the crime by the police, the second half follows the prosecution of the crime in court. "; // Here goes the summary of the tv-serie.
+	$summary = "This series is about a crime, ususally adapted from current headlines, from two separate vantage points."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/http://www.dvdsreleasedates.com/covers/law-and-order-the-tenth-year-dvd-cover-34.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "I think it is such an AWSOME show I love all of them I think they should make a movie and combine all of the law & order and SVU and major case I would love to see Mariska naked she is still hot and one or two of the female DA's but I wouldn't care if they didn't just would love to see a movie but with all the same actors I hate it when they make a movie from a tv show and try amd use famous actors its not the same like miami vice movie that sucked should have been Don Johnson and Philip Michel Tomas any way hope some dose make a movie or at least bring back the show"; // Here goes the first review text.
+	$review1 = "This series combines a strong cast with good writing. Every episode is getting better as the series go on and I definitely think the latest episodes are better than the previous ones. The actor/actresses are superb and they will grow on you eventually."; // Here goes the first review text.
 
 	$name2 = "Dominique,"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "Episode after episode, season after season, Law and Order is one of television's all time great epic crime and courtroom drama shows. I've never seen a poorly written or produced episode in all this time that it's been on the air, no not once. It seems that whenever some bizarre or unprecedented crime happens in real life...something that makes the news and stays there for weeks on end, you can almost expect the writers and producers of Law and Order to base one of their own shows on the general subject and do a slam-bang up job of it. This is the kind of show people remember for years after it's left the air."; // Here goes the second review text.
+	$review2 = "What I really love about this series is that you never really get tired of it. The path and transformation that the characters go into is shown absolutely amazing. This show has one of the best story lines in all of TV. I have never seen a poorly written or produced episode at all. The series is original and in my opinion it is flawless. The amazing casting makes this series a success and I will definitely keep watching this show for as long as it stays on. "; // Here goes the second review text.
 
 
 	include 'template_header.php';
