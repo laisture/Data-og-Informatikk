@@ -2,7 +2,7 @@
 
 	$title = " The Following"; // Here goes the title of the tv-serie.
 
-	$summary = "A brilliant charismatic, yet psychotic serial killer communicates with other active serial killers and activates a cult of believers following his every command. "; // Here goes the summary of the tv-serie.
+	$summary = "A serial killer communicates with other serial killers and activates a cult of believers following his every command. "; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Following.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,17 +16,17 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "Fast paced, lots of action. Reminds me of Prison Break. You are so invested you want the next episode. Yes the first episode was promising and was kind of different to the rest of the season. But so what? The rest of the season was equally engaging. Kevin Bacon is great and some of the other actors too. I don´t know all of their real names but there were good performances. Like many people have said in their reviews here and in other sites, apart from the main storyline, one of the best and more interesting secondary stories was the Jacob/Paul/Emma trio. Especially Jacob was my favorite character and one of the best actors too."; // Here goes the first review text.
+	$review1 = "This series reminds me of other series i have seen. Especially prison break. The first epsiode was promising and different to the rest of the season. But the rest of the season was equally good in a different way. I will say that everyone have to watch this series, thats it!"; // Here goes the first review text.
 
 	$name2 = "James Bond"; // Here goes the name of the the second person who wrote a review.
 
 	$date2 = "Mar 13 2013"; // Here goes the date of the second review.
 
-	$stars2 = "3-stars-png"; // Here goes the image url for how many stars the user has given the tv-serie.
+	$stars2 = "3-stars.png"; // Here goes the image url for how many stars the user has given the tv-serie.
 
 	$altStars2 = "3 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "This show constantly has me rolling my eyes. The cops are complete idiots. Every time they get close to catching someone, they either skip procedure or basic common sense and the criminals slip away. It is as predictable as knowing that the survivors on Gilligans Island were going to fail in their latest escape attempt. Whenever there is a crisis you know that someone will be a secret agent, or sheer incompetence will destroy the situation. The show does not keep you guessing or have hidden ideas that surface over time. It is a show that persists on the idea that everyone is this madmans follower and the police are so dense and so unprofessional that they will muck up the situation allowing the criminals to continue their fiendish plan. This show is a horrible show."; // Here goes the second review text.
+	$review2 = "This series is worse than bad! I started watching this for the same reason as many of my friends. Bu tafter watching few episodes of this series, im not too sure what to think. Give it a chance. "; // Here goes the second review text.
 
 
 	include 'template_header.php';
