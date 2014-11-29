@@ -2,7 +2,7 @@
 
 	$title = "The Jury "; // Here goes the title of the tv-serie.
 
-	$summary = "New York is the setting for this courtroom drama about a jury of 12 different men and women delibrating various capital crime cases while under the supervision of the courthouse staff ranging from the bailif, the head clerk, the messenger, and the judge, prosecuter and defense lawyer.	"; // Here goes the summary of the tv-serie.
+	$summary = "The story about a young Seikh man who is charged with murdering a classmate. The trial brings together a jury of 12 different men and women delibrating various capital crime cases."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Jury.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "A very compelling story about a young Seikh man who is charged with murdering a classmate. I enjoyed the relationships the characters formed with each other and how they were brought together for the conclusion of the story. I thoroughly enjoyed Gerry Butler's role as a young man fresh out of rehab struggling to make a new life for himself despite all his difficulties. The ensemble cast draws you into their own personal trials as well as their fight for the truth in the trial they sit for. The story keeps you guessing and even in the end, you still are not sure what is the actual truth."; // Here goes the first review text.
+	$review1 = "This series combines a strong cast with good writing. Every episode is getting better as the series go on and I definitely think the latest episodes are better than the previous ones. The actor/actresses are superb and they will grow on you eventually."; // Here goes the first review text.
 
 	$name2 = "Adrienne,"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "Never have you seen such as Gerard Butler portraying Johnny in this film The Jury. You feel a part of what the character is going through, his turmoil and struggle with being a recovering alcoholic. Gerards performance touched you in ways you could not imagine. Your heart felt for this man and his demons. Mr. Butler was captivating when he performed the scene in which he found out his love interest, Rose was married. You where so awe struck by his pain you could not help but cry for him. This was probably one of the best performances I have ever scene an actor do in any film. If this is what we seen what is there coming? I eagerly wait for Mr. Butler to dazzle us all. "; // Here goes the second review text.
+	$review2 = "What I really love about this series is that you never really get tired of it. The path and transformation that the characters go into is shown absolutely amazing. This show has one of the best story lines in all of TV. I have never seen a poorly written or produced episode at all. The series is original and in my opinion it is flawless. The amazing casting makes this series a success and I will definitely keep watching this show for as long as it stays on. "; // Here goes the second review text.
 
 
 	include 'template_header.php';
