@@ -135,13 +135,13 @@ Comedy->
 - Scandal               
 - Sleepy Hollow        *
 - Secret Life Of An American Teenager *
-- Secret Sircle  *
-- Tomorrow People   *
+- Secret Sircle  
+- Tomorrow People   
 - Two and a half men  
-- Unforgettable  *
+- Unforgettable  
 - Ugly Betty         
 - The Vampire Diaries  
-- Vikings              *
+- Vikings              
 - Veronica Mars       
 - The Walking Dead      
-- White collar         *
+- White collar         
