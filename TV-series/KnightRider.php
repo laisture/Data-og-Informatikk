@@ -2,7 +2,7 @@
 
 	$title = "Knight rider"; // Here goes the title of the tv-serie.
 
-	$summary = "When a group of ruthless mercenaries kill a reclusive scientist, his creation, a new model of artificially intelligent supercar, escapes to find his daughter and recruit a ex-soldier to thwart them."; // Here goes the summary of the tv-serie.
+	$summary = "When a group mercenaries kill a reclusive scientist. His creation, a new model of supercar, escapes to find his daughter."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/KnightRider.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "I like this show.. Y cancel it? I & frnds were watching today.. N guess what, we watched all in just one day guys.. We beg for more... Those who haven't watched try only 1 episode by random, I assure you that you will love it, and want to watch it all"; // Here goes the first review text.
+	$review1 = "This series combines a strong cast with good writing. Every episode is getting better as the series go on and I definitely think the latest episodes are better than the previous ones. The actor/actresses are superb and they will grow on you eventually."; // Here goes the first review text.
 
 	$name2 = "Adrienne,"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "This rocks.. Better than the old one in many ways... Look at the car... Those new technology... The attack mode is cool"; // Here goes the second review text.
+	$review2 = "What I really love about this series is that you never really get tired of it. The path and transformation that the characters go into is shown absolutely amazing. This show has one of the best story lines in all of TV. I have never seen a poorly written or produced episode at all. The series is original and in my opinion it is flawless. The amazing casting makes this series a success and I will definitely keep watching this show for as long as it stays on. "; // Here goes the second review text.
 
 
 	include 'template_header.php';
