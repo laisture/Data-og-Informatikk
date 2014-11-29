@@ -82,7 +82,7 @@ Comedy->
 - Doctor who   
 - Dexter   
 - Dallas    
-- Days of our lives  *
+- Days of our lives  
 - Elementary  
 - Escape Club  
 - Flash           
