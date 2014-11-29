@@ -2,7 +2,7 @@
 
 	$title = "The Blacklist"; // Here goes the title of the tv-serie.
 
-	$summary = "Forner government agent Raymond Red Reddington has eluded capture for decades. But he suddenly surrenders to the FBI with an offer to help catch a terrorist."; // Here goes the summary of the tv-serie.
+	$summary = "A government agent has eluded capture for decades. But he suddenly surrenders to FBI with an offer to help them to catch a terrorist. "; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/TheBlacklist.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "James Spader makes this a very watchable show. Quite violent considering its a network show so it satisfies the gritty criteria. A large amount of belief suspension is required but Its snappy and funny too. Agent Keen is unfortunately miscast here. Doesn't have screen presence or chemistry for me. Maybe she'll grow into it.."; // Here goes the first review text.
+	$review1 = "The main character makes this show worth watching. His acting is very clever in this series. He should do more series.  If I have to say one thing I really like about this series, would that be that you never get tired of it. This series is original and I will say flawless. "; // Here goes the first review text.
 
 	$name2 = "Lars"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "3 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "It's not terrible but it's story is a little self serving and they pull conspiracies out of thin air. It's a mindlessly violent, over a exaggerated spy drama... About non-spies. Is it a procedural.. Is there a meaningful story arc there somewhere? Not that I can see. Save yourself some time and watch Homeland instead (if you haven't already). Spader is the only redeeming part of the show for me."; // Here goes the second review text.
+	$review2 = "Its not terrible but it is something that makes this series not better than a 3 stars rating. I don’t know how to explain that, its just something. Its really hard to say. Sometimes it’s the characters or the plot. I don’t know, you have to watch it. And you will truly understand..."; // Here goes the second review text.
 
 
 	include 'template_header.php';
