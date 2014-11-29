@@ -2,7 +2,7 @@
 
 	$title = "Fringe"; // Here goes the title of the tv-serie.
 
-	$summary = "A television drama centered around a female FBI agent who is forced to work with an institutionalized scientist in order to rationalize a brewing storm of unexplained phenomena. "; // Here goes the summary of the tv-serie.
+	$summary = "A drama about a female FBI agent. She is forced to work with an institutionalized scientist."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/Fringe.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "The first season of this show was the only one worth watching. The show did a good job at differentiating itself apart from other similar shows before it. While it still maintained some healthy similarities. I liked this season a lot. Just wish some series actually had a planned ending and not a never ending plot extension to make more money."; // Here goes the first review text.
+	$review1 = "This series combines a strong cast with good writing. Every episode is getting better as the series go on and I definitely think the latest episodes are better than the previous ones. The actor/actresses are superb and they will grow on you eventually."; // Here goes the first review text.
 
 	$name2 = "Tom"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "3 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "It really wants to be the successor to the X-Files and it has everything except what it need most: the chemistry between the two main characters. Fringe is well written and nicely produced but it feels as empty and plot driven as the X-Files without Mulder. I got bored and quit watching."; // Here goes the second review text.
+	$review2 = "After only watching the first episode, I can tell it is a mindless and predictable series. When the first episodes began, I was interested and curious to find out what would happen, but after a while I got disappointed. The first episodes is well written and nicely produced but it feels empty and plot driven. But if you really enjoy this genre you may want to give this series a chance."; // Here goes the second review text.
 
 
 	include 'template_header.php';
