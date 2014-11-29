@@ -2,7 +2,7 @@
 
 	$title = "The Office"; // Here goes the title of the tv-serie.
 
-	$summary = "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inapproperiate behavior, and tedium. Based on the hit BBC series."; // Here goes the summary of the tv-serie.
+	$summary = "ies."; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/TheOffice.jpg"; // Here goes the url for the poster of the tv-serie.
 
