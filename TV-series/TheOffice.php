@@ -2,7 +2,7 @@
 
 	$title = "The Office"; // Here goes the title of the tv-serie.
 
-	$summary = "ies."; // Here goes the summary of the tv-serie.
+	$summary = "A series of a group of typical office workers. The workday contains of ego clashes, inappropriate behavior, and tedium. This is based on the BBC series. "; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/TheOffice.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "This show remains my favorite show on TV. Even after Steve Carrell left, the writers adapted the show to keep it entertaining. It has lost some luster since Steve's departure, but is now more grounded and realistic. It is more down to earth while still being funny. Season 8 was not my favorite season, but it was sure up there. I can't wait to see what they do in Season 9"; // Here goes the first review text.
+	$review1 = "This comedy series is great. I was waiting to watch this for months. I´ve had been watching it recently from season 1 again because this is so funny. It remains me of my work place, and all of my co-workers. They are so great like my friends. This series should be continuing to 100th season. I will always be a true fan. Everyone watch this, if you are not you are missing something very good. "; // Here goes the first review text.
 
 	$name2 = "Hansen"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "2 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "This comedy series is great. I've been watching it recently from season 1 and im now in season 7. The only thing that really bothers me is the Michael- Holly relationship. I was already relieved when Holly was put out for Nashua but when she came back it got worse. First off the actress didnt fit for the role. She's not as pretty as the character supposes and she looks older not to mention her annoying voice! There was a greater chemistry between Michael and Jan Levingson. She's perfect for Michael's character. She's the real hottie in the show and this show needs one. I hate it when they take her out and when they made her insane. She needs to be back in the show and no Holly show ups anymore please!!"; // Here goes the second review text.
+	$review2 = "OMG! This series is very bad. I didn’t like the story or the characters. This is not interesting, they don’t even know hoe to act. It’s so painful. Anyone else could have done this. Its so many talents out there. Find them instead of using characters like this. Have just wasted my time by watching this bad series. I couldn’t watch more than a few episodes, but that was enough. Who would waste your time watching this?"; // Here goes the second review text.
 
 
 	include 'template_header.php';
