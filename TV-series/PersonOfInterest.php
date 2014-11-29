@@ -2,7 +2,7 @@
 
 	$title = "Person Of Interest"; // Here goes the title of the tv-serie.
 
-	$summary = "A former CIA operative is recruited by an engimatic bilionaire to prevent violent crimes."; // Here goes the summary of the tv-serie.
+	$summary = "An earlier CIA agent is recruited by a billionaire to prevent violent crimes. "; // Here goes the summary of the tv-serie.
 
 	$poster ="../Pictures/PersonOfInterest.jpg"; // Here goes the url for the poster of the tv-serie.
 
@@ -16,7 +16,7 @@
 
 	$altStars1 = "4 out of 5 stars rating"; // Here goes the alt text for the first stars picture.
 
-	$review1 = "Always look forward to this show because it shows cutting edge spy technologies. It helps me realize how much I am spied on by those who may not have my best interests in mind. It also shows how ones privacy is a thing of the past. A person in the last episode lived in a town that had no internet or cell service so she could feel a little bit safe. Carry on with a great TV thriller, for the information everyone should be aware of."; // Here goes the first review text.
+	$review1 = "I always look forward to this series because every episode is great in its own way. I am a big fan of this series and characters. I truly love it. I hope this series continues forever. This series is something I have a count down too :P"; // Here goes the first review text.
 
 	$name2 = "Tobias"; // Here goes the name of the the second person who wrote a review.
 
@@ -26,7 +26,7 @@
 
 	$altStars2 = "5 out of 5 stars rating"; // Here goes the alt text for second the stars picture.
 
-	$review2 = "I LOVE this show. It's a change from all the cop shows and CSI shows. Jim Caviezel is such a sexy guy I could just watch this show for him but that aside the show is just very cool and Finch is such a different character. I love the whole concept of this show."; // Here goes the second review text.
+	$review2 = "I love this TV-series. The main character is just so sexy. I have to watch this series because of one and only him. The series is thrilling, and very different from the other agents kind of series.  "; // Here goes the second review text.
 
 
 	include 'template_header.php';
