@@ -99,7 +99,7 @@ Comedy->
 - Grimm   
 - The Game  
 - Hawaii five-o   
-- Heart of dixie   *
+- Heart of dixie   
 - Helix    
 - House of Cards        
 - How i met your mother 
